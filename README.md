@@ -56,3 +56,7 @@
 |  Lv.1  | [12950. 행렬의 덧셈](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12950.%E2%80%85%ED%96%89%EB%A0%AC%EC%9D%98%E2%80%85%EB%8D%A7%EC%85%88) |     2     |   O   | 
 |  Lv.1  | [12969. 직사각형 별찍기](https://github.com/chay140/Algorithms/tree/a3cf34f8935c19a7949f35ad19e007c8e7be448c/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12969.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%B3%84%EC%B0%8D%EA%B8%B0) |     1     |   O   | 
 
+## Level 2.
+| 난이도 |                                       코드 (내 풀이)                                                | 풀어본 횟수 | 해결여부 |
+| :----: | :-------------------------------------------------------------------------------------------------: | :-------: | :--: |
+|  Lv.2  | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/176962.%E2%80%85%EA%B3%BC%EC%A0%9C%E2%80%85%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0) |     1     |   O   | 
