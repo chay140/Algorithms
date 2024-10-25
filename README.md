@@ -54,4 +54,5 @@
 |  Lv.1  | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/82612.%E2%80%85%EB%B6%80%EC%A1%B1%ED%95%9C%E2%80%85%EA%B8%88%EC%95%A1%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) |     1     |   O   | 
 |  Lv.1  | [12918. 문자열 다루기 기본](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12918.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8B%A4%EB%A3%A8%EA%B8%B0%E2%80%85%EA%B8%B0%EB%B3%B8) |     1     |   O   | 
 |  Lv.1  | [12950. 행렬의 덧셈](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12950.%E2%80%85%ED%96%89%EB%A0%AC%EC%9D%98%E2%80%85%EB%8D%A7%EC%85%88) |     2     |   O   | 
+|  Lv.1  | [12969. 직사각형 별찍기](https://github.com/chay140/Algorithms/tree/a3cf34f8935c19a7949f35ad19e007c8e7be448c/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12969.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%B3%84%EC%B0%8D%EA%B8%B0) |     1     |   O   | 
 
