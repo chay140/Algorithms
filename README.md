@@ -1,62 +1,62 @@
-# 알고리즘 풀이 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-> 백준허브로 연동된 자동 커밋 리포지토리 [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
-> 
-> _문제를 푼 순서로 기재했습니다_
-
-# 프로그래머스 문제
 ## Level 0.
-| 난이도 |                                       코드 (내 풀이)                                                | 풀어본 횟수 | 해결여부 |
-| :----: | :-------------------------------------------------------------------------------------------------: | :-------: | :--: |
-|  Lv.0  | [120803. 두 수의 차](https://github.com/chay140/Algorithms/tree/db84a21ffaac303d33f353cd70c982c282e4768e/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120803.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EC%B0%A8) |     1     |   O   |
-|  Lv.0  | [120804. 두 수의 곱](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120804.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EA%B3%B1) |     1     |   O   | 
-|  Lv.0  | [120805. 몫 구하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120805.%E2%80%85%EB%AA%AB%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.0  | [120820. 나이 출력](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120820.%E2%80%85%EB%82%98%EC%9D%B4%E2%80%85%EC%B6%9C%EB%A0%A5) |     1     |   O   | 
-|  Lv.0  | [120807. 숫자 비교하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120807.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.0  | [120802. 두 수의 합](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120802.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9) |     2     |   O   | 
-|  Lv.0  | [120806. 두 수의 나눗셈](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120806.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EB%82%98%EB%88%97%EC%85%88) |     1     |   O   | 
-|  Lv.0  | [120829. 각도기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120829.%E2%80%85%EA%B0%81%EB%8F%84%EA%B8%B0) |     1     |   O   | 
-|  Lv.0  | [120831. 짝수의 합](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120831.%E2%80%85%EC%A7%9D%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9) |     1     |   O   | 
-|  Lv.0  | [120817. 배열의 평균값](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120817.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%8F%89%EA%B7%A0%EA%B0%92) |     1     |   O   | 
-|  Lv.0  | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181952.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.0  | [120810. 나머지 구하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120810.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.0  | [120808. 분수의 덧셈](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120808.%E2%80%85%EB%B6%84%EC%88%98%EC%9D%98%E2%80%85%EB%8D%A7%EC%85%88) |     2     |   O   | 
-|  Lv.0  | [120809. 배열 두배 만들기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/120809.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%91%90%EB%B0%B0%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |     1     |   O   | 
-|  Lv.0  | [181933. flag에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181933.%E2%80%85flag%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EA%B0%92%E2%80%85%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.0  | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181937.%E2%80%85n%EC%9D%98%E2%80%85%EB%B0%B0%EC%88%98) |     1     |   O   | 
-|  Lv.0  | [181946. 문자열 붙여서 출력하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181946.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B6%99%EC%97%AC%EC%84%9C%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |     1     |   O   | 
-
+| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
+| :----: | :-------------------------: | :-------: | :--: |
+## Level 0.
+| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
+| :----: | :-------------: | :-------: | :--: |
+| Lv.0 | [120802. 두 수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120802. 두 수의 합) | 1 | O |
+| Lv.0 | [120803. 두 수의 차](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120803. 두 수의 차) | 1 | O |
+| Lv.0 | [120804. 두 수의 곱](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120804. 두 수의 곱) | 1 | O |
+| Lv.0 | [120805. 몫 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120805. 몫 구하기) | 1 | O |
+| Lv.0 | [120806. 두 수의 나눗셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120806. 두 수의 나눗셈) | 1 | O |
+| Lv.0 | [120807. 숫자 비교하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120807. 숫자 비교하기) | 1 | O |
+| Lv.0 | [120808. 분수의 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120808. 분수의 덧셈) | 1 | O |
+| Lv.0 | [120809. 배열 두배 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120809. 배열 두배 만들기) | 1 | O |
+| Lv.0 | [120810. 나머지 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120810. 나머지 구하기) | 1 | O |
+| Lv.0 | [120811. 중앙값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120811. 중앙값 구하기) | 1 | O |
+| Lv.0 | [120813. 짝수는 싫어요](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120813. 짝수는 싫어요) | 1 | O |
+| Lv.0 | [120817. 배열의 평균값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120817. 배열의 평균값) | 1 | O |
+| Lv.0 | [120820. 나이 출력](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120820. 나이 출력) | 1 | O |
+| Lv.0 | [120829. 각도기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120829. 각도기) | 1 | O |
+| Lv.0 | [120830. 양꼬치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120830. 양꼬치) | 1 | O |
+| Lv.0 | [120831. 짝수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120831. 짝수의 합) | 1 | O |
+| Lv.0 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O |
+| Lv.0 | [181933. flag에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181933. flag에 따라 다른 값 반환하기) | 1 | O |
+| Lv.0 | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181937. n의 배수) | 1 | O |
+| Lv.0 | [181946. 문자열 붙여서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181946. 문자열 붙여서 출력하기) | 1 | O |
+| Lv.0 | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181952. 문자열 출력하기) | 1 | O |
 ## Level 1.
-| 난이도 |                                       코드 (내 풀이)                                                | 풀어본 횟수 | 해결여부 |
-| :----: | :-------------------------------------------------------------------------------------------------: | :-------: | :--: |
-|  Lv.1  | [12937. 짝수와 홀수](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12937.%E2%80%85%EC%A7%9D%EC%88%98%EC%99%80%E2%80%85%ED%99%80%EC%88%98) |     1     |   O   | 
-|  Lv.1  | [12944. 평균 구하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12944.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12931. 자릿수 더하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12931.%E2%80%85%EC%9E%90%EB%A6%BF%EC%88%98%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12928. 약수의 합](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12928.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9) |     1     |   O   | 
-|  Lv.1  | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/87389.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%E2%80%851%EC%9D%B4%E2%80%85%EB%90%98%EB%8A%94%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12954. x만큼 간격이 있는 n개의 숫자](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12954.%E2%80%85x%EB%A7%8C%ED%81%BC%E2%80%85%EA%B0%84%EA%B2%A9%EC%9D%B4%E2%80%85%EC%9E%88%EB%8A%94%E2%80%85n%EA%B0%9C%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90) |     1     |   O   | 
-|  Lv.1  | [12932. 자연수 뒤집어 배열로 만들기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12932.%E2%80%85%EC%9E%90%EC%97%B0%EC%88%98%E2%80%85%EB%92%A4%EC%A7%91%EC%96%B4%E2%80%85%EB%B0%B0%EC%97%B4%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12925. 문자열을 정수로 바꾸기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12925.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%E2%80%85%EC%A0%95%EC%88%98%EB%A1%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12933. 정수 내림차순으로 배치하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12933.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%E2%80%85%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12947. 하샤드 수](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12947.%E2%80%85%ED%95%98%EC%83%A4%EB%93%9C%E2%80%85%EC%88%98) |     1     |   O   | 
-|  Lv.1  | [12912. 두 정수 사이의 합](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12912.%E2%80%85%EB%91%90%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%ED%95%A9) |     1     |   O   | 
-|  Lv.1  | [12943. 콜라츠 추측](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12943.%E2%80%85%EC%BD%9C%EB%9D%BC%EC%B8%A0%E2%80%85%EC%B6%94%EC%B8%A1) |     1     |   O   | 
-|  Lv.1  | [12919. 서울에서 김서방 찾기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12919.%E2%80%85%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%E2%80%85%EA%B9%80%EC%84%9C%EB%B0%A9%E2%80%85%EC%B0%BE%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12910. 나누어 떨어지는 숫자 배열](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12910.%E2%80%85%EB%82%98%EB%88%84%EC%96%B4%E2%80%85%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B0%B0%EC%97%B4) |     1     |   O   | 
-|  Lv.1  | [76501. 음양 더하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/76501.%E2%80%85%EC%9D%8C%EC%96%91%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12948. 핸드폰 번호 가리기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12948.%E2%80%85%ED%95%B8%EB%93%9C%ED%8F%B0%E2%80%85%EB%B2%88%ED%98%B8%E2%80%85%EA%B0%80%EB%A6%AC%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/86051.%E2%80%85%EC%97%86%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12935. 제일 작은 수 제거하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12935.%E2%80%85%EC%A0%9C%EC%9D%BC%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%88%98%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12903. 가운데 글자 가져오기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12903.%E2%80%85%EA%B0%80%EC%9A%B4%EB%8D%B0%E2%80%85%EA%B8%80%EC%9E%90%E2%80%85%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12922. 수박수박수박수박수박수？](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12922.%E2%80%85%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EF%BC%9F) |     1     |   O   | 
-|  Lv.1  | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/70128.%E2%80%85%EB%82%B4%EC%A0%81) |     1     |   O   | 
-|  Lv.1  | [77884. 약수의 개수와 덧셈](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/77884.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98%EC%99%80%E2%80%85%EB%8D%A7%EC%85%88) |     1     |   O   | 
-|  Lv.1  | [12917. 문자열 내림차순으로 배치하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12917.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%E2%80%85%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/82612.%E2%80%85%EB%B6%80%EC%A1%B1%ED%95%9C%E2%80%85%EA%B8%88%EC%95%A1%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) |     1     |   O   | 
-|  Lv.1  | [12918. 문자열 다루기 기본](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12918.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8B%A4%EB%A3%A8%EA%B8%B0%E2%80%85%EA%B8%B0%EB%B3%B8) |     1     |   O   | 
-|  Lv.1  | [12950. 행렬의 덧셈](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12950.%E2%80%85%ED%96%89%EB%A0%AC%EC%9D%98%E2%80%85%EB%8D%A7%EC%85%88) |     2     |   O   | 
-|  Lv.1  | [12969. 직사각형 별찍기](https://github.com/chay140/Algorithms/tree/a3cf34f8935c19a7949f35ad19e007c8e7be448c/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12969.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%B3%84%EC%B0%8D%EA%B8%B0) |     1     |   O   | 
-
+| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
+| :----: | :-------------: | :-------: | :--: |
+| Lv.1 | [12903. 가운데 글자 가져오기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12903. 가운데 글자 가져오기) | 1 | O |
+| Lv.1 | [12910. 나누어 떨어지는 숫자 배열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12910. 나누어 떨어지는 숫자 배열) | 1 | O |
+| Lv.1 | [12912. 두 정수 사이의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12912. 두 정수 사이의 합) | 1 | O |
+| Lv.1 | [12917. 문자열 내림차순으로 배치하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12917. 문자열 내림차순으로 배치하기) | 1 | O |
+| Lv.1 | [12918. 문자열 다루기 기본](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12918. 문자열 다루기 기본) | 1 | O |
+| Lv.1 | [12919. 서울에서 김서방 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12919. 서울에서 김서방 찾기) | 1 | O |
+| Lv.1 | [12922. 수박수박수박수박수박수？](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12922. 수박수박수박수박수박수？) | 1 | O |
+| Lv.1 | [12925. 문자열을 정수로 바꾸기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12925. 문자열을 정수로 바꾸기) | 1 | O |
+| Lv.1 | [12928. 약수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12928. 약수의 합) | 1 | O |
+| Lv.1 | [12931. 자릿수 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12931. 자릿수 더하기) | 1 | O |
+| Lv.1 | [12932. 자연수 뒤집어 배열로 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12932. 자연수 뒤집어 배열로 만들기) | 1 | O |
+| Lv.1 | [12933. 정수 내림차순으로 배치하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12933. 정수 내림차순으로 배치하기) | 1 | O |
+| Lv.1 | [12934. 정수 제곱근 판별](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12934. 정수 제곱근 판별) | 1 | O |
+| Lv.1 | [12935. 제일 작은 수 제거하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12935. 제일 작은 수 제거하기) | 1 | O |
+| Lv.1 | [12937. 짝수와 홀수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12937. 짝수와 홀수) | 1 | O |
+| Lv.1 | [12943. 콜라츠 추측](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12943. 콜라츠 추측) | 1 | O |
+| Lv.1 | [12944. 평균 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12944. 평균 구하기) | 1 | O |
+| Lv.1 | [12947. 하샤드 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12947. 하샤드 수) | 1 | O |
+| Lv.1 | [12948. 핸드폰 번호 가리기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12948. 핸드폰 번호 가리기) | 1 | O |
+| Lv.1 | [12950. 행렬의 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12950. 행렬의 덧셈) | 1 | O |
+| Lv.1 | [12954. x만큼 간격이 있는 n개의 숫자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12954. x만큼 간격이 있는 n개의 숫자) | 1 | O |
+| Lv.1 | [12969. 직사각형 별찍기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12969. 직사각형 별찍기) | 1 | O |
+| Lv.1 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O |
+| Lv.1 | [76501. 음양 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/76501. 음양 더하기) | 1 | O |
+| Lv.1 | [77884. 약수의 개수와 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77884. 약수의 개수와 덧셈) | 1 | O |
+| Lv.1 | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/82612. 부족한 금액 계산하기) | 1 | O |
+| Lv.1 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 1 | O |
+| Lv.1 | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/87389. 나머지가 1이 되는 수 찾기) | 1 | O |
 ## Level 2.
-| 난이도 |                                       코드 (내 풀이)                                                | 풀어본 횟수 | 해결여부 |
-| :----: | :-------------------------------------------------------------------------------------------------: | :-------: | :--: |
-|  Lv.2  | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/176962.%E2%80%85%EA%B3%BC%EC%A0%9C%E2%80%85%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0) |     1     |   O   | 
+| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
+| :----: | :-------------: | :-------: | :--: |
+| Lv.2 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 1 | O |
