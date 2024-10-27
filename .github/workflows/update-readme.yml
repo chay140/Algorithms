@@ -4,14 +4,17 @@ on:
   push:
     branches:
       - main  # Adjust if using a different default branch
+    paths-ignore:
+      - '**/*.yml'  # Exclude pushes to YAML files, including this workflow file
 
 jobs:
   update-readme:
+    if: contains(github.event.head_commit.message, '[level')  # Only run if commit message includes "[level"
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Count solutions and update README
         run: |
