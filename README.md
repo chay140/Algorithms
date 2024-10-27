@@ -1,6 +1,10 @@
-## Level 0.
-| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
-| :----: | :-------------------------: | :-------: | :--: |
+# 알고리즘 풀이 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+> 백준허브로 연동된 자동 커밋 리포지토리 [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+>
+> _Readme는 문제 번호에 따라 자동 업데이트 합니다._
+
+# 프로그래머스 문제
+
 ## Level 0.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
 | :----: | :-------------: | :-------: | :--: |
@@ -20,11 +24,13 @@
 | Lv.0 | [120829. 각도기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120829. 각도기) | 1 | O |
 | Lv.0 | [120830. 양꼬치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120830. 양꼬치) | 1 | O |
 | Lv.0 | [120831. 짝수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120831. 짝수의 합) | 1 | O |
+| Lv.0 | [120898. 편지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120898. 편지) | 1 | O |
 | Lv.0 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O |
 | Lv.0 | [181933. flag에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181933. flag에 따라 다른 값 반환하기) | 1 | O |
 | Lv.0 | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181937. n의 배수) | 1 | O |
 | Lv.0 | [181946. 문자열 붙여서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181946. 문자열 붙여서 출력하기) | 1 | O |
 | Lv.0 | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181952. 문자열 출력하기) | 1 | O |
+
 ## Level 1.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
 | :----: | :-------------: | :-------: | :--: |
@@ -56,6 +62,7 @@
 | Lv.1 | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/82612. 부족한 금액 계산하기) | 1 | O |
 | Lv.1 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 1 | O |
 | Lv.1 | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/87389. 나머지가 1이 되는 수 찾기) | 1 | O |
+
 ## Level 2.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
 | :----: | :-------------: | :-------: | :--: |
