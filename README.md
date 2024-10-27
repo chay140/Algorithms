@@ -8,13 +8,13 @@
 ## Level 0.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
 | :----: | :-------------: | :-------: | :--: |
-| Lv.0 | [120802. 두 수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120802. 두 수의 합) | 1 | O |
+| Lv.0 | [120802. 두 수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120802. 두 수의 합) | 2 | O |
 | Lv.0 | [120803. 두 수의 차](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120803. 두 수의 차) | 1 | O |
 | Lv.0 | [120804. 두 수의 곱](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120804. 두 수의 곱) | 1 | O |
 | Lv.0 | [120805. 몫 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120805. 몫 구하기) | 1 | O |
 | Lv.0 | [120806. 두 수의 나눗셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120806. 두 수의 나눗셈) | 1 | O |
 | Lv.0 | [120807. 숫자 비교하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120807. 숫자 비교하기) | 1 | O |
-| Lv.0 | [120808. 분수의 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120808. 분수의 덧셈) | 1 | O |
+| Lv.0 | [120808. 분수의 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120808. 분수의 덧셈) | 2 | O |
 | Lv.0 | [120809. 배열 두배 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120809. 배열 두배 만들기) | 1 | O |
 | Lv.0 | [120810. 나머지 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120810. 나머지 구하기) | 1 | O |
 | Lv.0 | [120811. 중앙값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120811. 중앙값 구하기) | 1 | O |
@@ -22,7 +22,7 @@
 | Lv.0 | [120817. 배열의 평균값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120817. 배열의 평균값) | 1 | O |
 | Lv.0 | [120820. 나이 출력](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120820. 나이 출력) | 1 | O |
 | Lv.0 | [120829. 각도기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120829. 각도기) | 1 | O |
-| Lv.0 | [120830. 양꼬치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120830. 양꼬치) | 1 | O |
+| Lv.0 | [120830. 양꼬치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120830. 양꼬치) | 2 | O |
 | Lv.0 | [120831. 짝수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120831. 짝수의 합) | 1 | O |
 | Lv.0 | [120898. 편지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120898. 편지) | 1 | O |
 | Lv.0 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O |
@@ -52,9 +52,9 @@
 | Lv.1 | [12943. 콜라츠 추측](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12943. 콜라츠 추측) | 1 | O |
 | Lv.1 | [12944. 평균 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12944. 평균 구하기) | 1 | O |
 | Lv.1 | [12947. 하샤드 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12947. 하샤드 수) | 1 | O |
-| Lv.1 | [12948. 핸드폰 번호 가리기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12948. 핸드폰 번호 가리기) | 1 | O |
-| Lv.1 | [12950. 행렬의 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12950. 행렬의 덧셈) | 1 | O |
-| Lv.1 | [12954. x만큼 간격이 있는 n개의 숫자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12954. x만큼 간격이 있는 n개의 숫자) | 1 | O |
+| Lv.1 | [12948. 핸드폰 번호 가리기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12948. 핸드폰 번호 가리기) | 2 | O |
+| Lv.1 | [12950. 행렬의 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12950. 행렬의 덧셈) | 2 | O |
+| Lv.1 | [12954. x만큼 간격이 있는 n개의 숫자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12954. x만큼 간격이 있는 n개의 숫자) | 2 | O |
 | Lv.1 | [12969. 직사각형 별찍기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12969. 직사각형 별찍기) | 1 | O |
 | Lv.1 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O |
 | Lv.1 | [76501. 음양 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/76501. 음양 더하기) | 1 | O |
@@ -66,4 +66,4 @@
 ## Level 2.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |
 | :----: | :-------------: | :-------: | :--: |
-| Lv.2 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 1 | O |
+| Lv.2 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O |
