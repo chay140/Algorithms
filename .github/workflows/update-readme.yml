@@ -1,0 +1,71 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main  # Adjust if using a different default branch
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Count solutions and update README
+        run: |
+          # Define the README file path
+          README_FILE="README.md"
+
+          echo "# 알고리즘 풀이 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)" > $README_FILE
+          echo "> 백준허브로 연동된 자동 커밋 리포지토리 [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)." >> $README_FILE
+          echo "> " >> $README_FILE
+          echo "> _문제를 푼 순서로 기재했습니다_" >> $README_FILE
+          echo "" >> $README_FILE  # Adds a blank line
+          echo "# 프로그래머스 문제" >> $README_FILE
+
+          # Start the README content
+          echo "## Level 0." > $README_FILE
+          echo "| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |" >> $README_FILE
+          echo "| :----: | :-------------------------: | :-------: | :--: |" >> $README_FILE
+
+          # Function to process each level folder (adjust as per folder structure)
+          update_level() {
+            local level=$1
+            local level_folder="프로그래머스/$level"
+            
+            echo "## Level $level." >> $README_FILE
+            echo "| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |" >> $README_FILE
+            echo "| :----: | :-------------: | :-------: | :--: |" >> $README_FILE
+
+            for problem in $(ls "$level_folder"); do
+              problem_path="$level_folder/$problem"
+              problem_name=$(basename "$problem")
+
+              # Get the commit count for the problem file
+              commit_count=$(git rev-list --count HEAD -- "$problem_path")
+
+              # Generate GitHub link for the problem
+              problem_link="https://github.com/chay140/Algorithms/tree/main/$problem_path"
+
+              # Append the problem row to the README
+              echo "| Lv.$level | [$problem_name]($problem_link) | $commit_count | O |" >> $README_FILE
+            done
+          }
+
+          # Process each level
+          update_level 0
+          update_level 1
+          update_level 2
+
+          # Configure Git and commit the README update
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add $README_FILE
+          git commit -m "Auto-update README with latest problem stats"
+      
+      - name: Push changes
+        run: git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
