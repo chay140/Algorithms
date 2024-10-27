@@ -24,6 +24,7 @@
 | Lv.0 | [120829. 각도기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120829. 각도기) | 1 | O |
 | Lv.0 | [120830. 양꼬치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120830. 양꼬치) | 2 | O |
 | Lv.0 | [120831. 짝수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120831. 짝수의 합) | 1 | O |
+| Lv.0 | [120847. 최댓값 만들기 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120847. 최댓값 만들기 （1）) | 1 | O |
 | Lv.0 | [120898. 편지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120898. 편지) | 1 | O |
 | Lv.0 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O |
 | Lv.0 | [181933. flag에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181933. flag에 따라 다른 값 반환하기) | 1 | O |
