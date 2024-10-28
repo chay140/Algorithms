@@ -36,7 +36,7 @@
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
 | :----: | :-------------: | :-------: | :----: | :---------: |
 | Lv.1 | [12903. 가운데 글자 가져오기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12903. 가운데 글자 가져오기) | 1 | O | %Y->- |
-| Lv.1 | [12906. 같은 숫자는 싫어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12906. 같은 숫자는 싫어) | 1 | O | %Y->- (HEAD -> main, origin/main) |
+| Lv.1 | [12906. 같은 숫자는 싫어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12906. 같은 숫자는 싫어) | 2 | O | %Y->- (HEAD -> main, origin/main) |
 | Lv.1 | [12910. 나누어 떨어지는 숫자 배열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12910. 나누어 떨어지는 숫자 배열) | 1 | O | %Y->- |
 | Lv.1 | [12912. 두 정수 사이의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12912. 두 정수 사이의 합) | 1 | O | %Y->- |
 | Lv.1 | [12915. 문자열 내 마음대로 정렬하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12915. 문자열 내 마음대로 정렬하기) | 1 | O | %Y->- |
