@@ -44,7 +44,7 @@ jobs:
               problem_path="$level_folder/$problem"
               problem_name=$(basename "$problem")
               commit_count=$(git rev-list --count HEAD -- "$problem_path")
-              latest_date=$(git log -1 --format="%Y-%m-%d" -- "$problem_path")
+              latest_date=$(git log -1 --date=short --pretty=format:"%ad" -- "$problem_path")
               problem_link="https://github.com/chay140/Algorithms/tree/main/$problem_path"
               
               # Append the problem entry to the README
