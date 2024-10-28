@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 10
 
       - name: Count solutions and update README
         run: |
@@ -35,8 +35,8 @@ jobs:
           for level in 0 1 2; do
             echo "" >> $README_FILE
             echo "## Level $level." >> $README_FILE
-            echo "| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 |" >> $README_FILE
-            echo "| :----: | :-------------: | :-------: | :--: |" >> $README_FILE
+            echo "| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |" >> $README_FILE
+            echo "| :----: | :-------------: | :-------: | :----: | :---------: |" >> $README_FILE
             
             # Find each problem in the level directory
             level_folder="프로그래머스/$level"
@@ -44,10 +44,11 @@ jobs:
               problem_path="$level_folder/$problem"
               problem_name=$(basename "$problem")
               commit_count=$(git rev-list --count HEAD -- "$problem_path")
+              latest_date=$(git log -1 --format="%Y-%m-%d" -- "$problem_path")
               problem_link="https://github.com/chay140/Algorithms/tree/main/$problem_path"
               
               # Append the problem entry to the README
-              echo "| Lv.$level | [$problem_name]($problem_link) | $commit_count | O |" >> $README_FILE
+              echo "| Lv.$level | [$problem_name]($problem_link) | $commit_count | O | $latest_date |" >> $README_FILE
             done
           done
 
