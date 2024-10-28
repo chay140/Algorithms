@@ -1,19 +1,9 @@
 function solution(arr)
 {
-    let answer = [];
+    var answer = [];
 
-    // 첫 요소 미리 추가
-    answer.push(arr[0]);
-    let ans_index = 0;
-    
-    for (let i = 0; i < arr.length; i++) {
-        if (answer[ans_index] === arr[i]) {
-            continue;
-        } else {
-            answer.push(arr[i]);
-            ans_index += 1;
-        }
-    }
+    // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
+    console.log('Hello Javascript')
     
     return answer;
 }
