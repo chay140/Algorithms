@@ -50,6 +50,7 @@
 | Lv.1 | [12934. 정수 제곱근 판별](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12934. 정수 제곱근 판별) | 1 | O |
 | Lv.1 | [12935. 제일 작은 수 제거하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12935. 제일 작은 수 제거하기) | 1 | O |
 | Lv.1 | [12937. 짝수와 홀수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12937. 짝수와 홀수) | 1 | O |
+| Lv.1 | [12940. 최대공약수와 최소공배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12940. 최대공약수와 최소공배수) | 1 | O |
 | Lv.1 | [12943. 콜라츠 추측](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12943. 콜라츠 추측) | 1 | O |
 | Lv.1 | [12944. 평균 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12944. 평균 구하기) | 1 | O |
 | Lv.1 | [12947. 하샤드 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12947. 하샤드 수) | 1 | O |
