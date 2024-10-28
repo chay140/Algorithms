@@ -63,6 +63,7 @@
 | Lv.1 | [77884. 약수의 개수와 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77884. 약수의 개수와 덧셈) | 1 | O |
 | Lv.1 | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/82612. 부족한 금액 계산하기) | 1 | O |
 | Lv.1 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 1 | O |
+| Lv.1 | [86491. 최소직사각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86491. 최소직사각형) | 1 | O |
 | Lv.1 | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/87389. 나머지가 1이 되는 수 찾기) | 1 | O |
 
 ## Level 2.
