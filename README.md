@@ -63,6 +63,7 @@
 | Lv.1 | [12969. 직사각형 별찍기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12969. 직사각형 별찍기) | 1 | O | 2024-10-25 |
 | Lv.1 | [12982. 예산](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12982. 예산) | 1 | O | 2024-10-28 |
 | Lv.1 | [147355. 크기가 작은 부분문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/147355. 크기가 작은 부분문자열) | 1 | O | 2024-10-28 |
+| Lv.1 | [68935. 3진법 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68935. 3진법 뒤집기) | 1 | O | 2024-10-29 |
 | Lv.1 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O | 2024-10-22 |
 | Lv.1 | [76501. 음양 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/76501. 음양 더하기) | 1 | O | 2024-10-21 |
 | Lv.1 | [77884. 약수의 개수와 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77884. 약수의 개수와 덧셈) | 1 | O | 2024-10-22 |
