@@ -47,6 +47,7 @@
 | Lv.1 | [12922. 수박수박수박수박수박수？](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12922. 수박수박수박수박수박수？) | 1 | O | 2024-10-22 |
 | Lv.1 | [12925. 문자열을 정수로 바꾸기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12925. 문자열을 정수로 바꾸기) | 1 | O | 2024-10-21 |
 | Lv.1 | [12928. 약수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12928. 약수의 합) | 1 | O | 2024-10-18 |
+| Lv.1 | [12930. 이상한 문자 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12930. 이상한 문자 만들기) | 1 | O | 2024-10-30 |
 | Lv.1 | [12931. 자릿수 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12931. 자릿수 더하기) | 1 | O | 2024-10-18 |
 | Lv.1 | [12932. 자연수 뒤집어 배열로 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12932. 자연수 뒤집어 배열로 만들기) | 1 | O | 2024-10-21 |
 | Lv.1 | [12933. 정수 내림차순으로 배치하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12933. 정수 내림차순으로 배치하기) | 1 | O | 2024-10-21 |
