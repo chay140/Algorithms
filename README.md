@@ -63,6 +63,7 @@
 | Lv.1 | [12950. 행렬의 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12950. 행렬의 덧셈) | 2 | O | 2024-10-24 |
 | Lv.1 | [12954. x만큼 간격이 있는 n개의 숫자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12954. x만큼 간격이 있는 n개의 숫자) | 2 | O | 2024-10-18 |
 | Lv.1 | [12969. 직사각형 별찍기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12969. 직사각형 별찍기) | 1 | O | 2024-10-25 |
+| Lv.1 | [12977. 소수 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12977. 소수 만들기) | 1 | O | 2024-11-03 |
 | Lv.1 | [12982. 예산](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12982. 예산) | 1 | O | 2024-10-28 |
 | Lv.1 | [131705. 삼총사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/131705. 삼총사) | 1 | O | 2024-10-30 |
 | Lv.1 | [147355. 크기가 작은 부분문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/147355. 크기가 작은 부분문자열) | 1 | O | 2024-10-28 |
