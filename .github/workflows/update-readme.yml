@@ -23,7 +23,8 @@ jobs:
           # Define the README file path
           README_FILE="README.md"
 
-          total_solved=$(find 프로그래머스 -type f | wc -l)
+          total_files=$(find 프로그래머스 -type f | wc -l)
+          total_solved=$(($total_files / 2))
 
           # Add introductory content
           echo "# 알고리즘 풀이 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)" > $README_FILE
