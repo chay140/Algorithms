@@ -23,6 +23,8 @@ jobs:
           # Define the README file path
           README_FILE="README.md"
 
+          total_solved=$(find 프로그래머스 -type f | wc -l)
+
           # Add introductory content
           echo "# 알고리즘 풀이 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)" > $README_FILE
           echo "> 백준허브로 연동된 자동 커밋 리포지토리 [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)." >> $README_FILE
@@ -30,6 +32,7 @@ jobs:
           echo "> _Readme는 문제 번호에 따라 자동 업데이트 합니다._" >> $README_FILE
           echo "" >> $README_FILE  # Blank line for spacing
           echo "# 프로그래머스 문제" >> $README_FILE
+          echo "**총 풀이 수: $total_solved**" >> $README_FILE
 
           # Append each level section
           for level in 0 1 2; do
