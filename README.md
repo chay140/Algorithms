@@ -40,7 +40,7 @@
 | Lv.1 | [12906. 같은 숫자는 싫어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12906. 같은 숫자는 싫어) | 2 | O | 2024-10-28 |
 | Lv.1 | [12910. 나누어 떨어지는 숫자 배열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12910. 나누어 떨어지는 숫자 배열) | 1 | O | 2024-10-21 |
 | Lv.1 | [12912. 두 정수 사이의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12912. 두 정수 사이의 합) | 1 | O | 2024-10-21 |
-| Lv.1 | [12915. 문자열 내 마음대로 정렬하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12915. 문자열 내 마음대로 정렬하기) | 1 | O | 2024-10-28 |
+| Lv.1 | [12915. 문자열 내 마음대로 정렬하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12915. 문자열 내 마음대로 정렬하기) | 2 | O | 2024-11-05 |
 | Lv.1 | [12916. 문자열 내 p와 y의 개수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12916. 문자열 내 p와 y의 개수) | 1 | O | 2024-10-28 |
 | Lv.1 | [12917. 문자열 내림차순으로 배치하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12917. 문자열 내림차순으로 배치하기) | 1 | O | 2024-10-22 |
 | Lv.1 | [12918. 문자열 다루기 기본](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12918. 문자열 다루기 기본) | 1 | O | 2024-10-23 |
