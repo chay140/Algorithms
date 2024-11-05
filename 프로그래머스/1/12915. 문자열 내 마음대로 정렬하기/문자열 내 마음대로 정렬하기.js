@@ -1,5 +1,5 @@
 function solution(strings, n) {
-  var answer = [];
+  let answer = [];
 
   // 앞에 글자 붙이기
   var newStrs = strings.map(function (str) {
