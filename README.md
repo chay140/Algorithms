@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 70**
+**총 풀이 수: 71**
 
 ## Level 0.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
@@ -84,6 +84,7 @@
 | Lv.2 | [12909. 올바른 괄호](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12909. 올바른 괄호) | 1 | O | 2024-11-04 |
 | Lv.2 | [12939. 최댓값과 최솟값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12939. 최댓값과 최솟값) | 1 | O | 2024-11-03 |
 | Lv.2 | [12941. 최솟값 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12941. 최솟값 만들기) | 1 | O | 2024-11-05 |
+| Lv.2 | [12951. JadenCase 문자열 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12951. JadenCase 문자열 만들기) | 1 | O | 2024-11-05 |
 | Lv.2 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 1 | O | 2024-11-04 |
 | Lv.2 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
 | Lv.2 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
