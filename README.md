@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 72**
+**총 풀이 수: 73**
 
 ## Level 0.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
@@ -68,6 +68,7 @@
 | Lv.1 | [12982. 예산](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12982. 예산) | 1 | O | 2024-10-28 |
 | Lv.1 | [131705. 삼총사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/131705. 삼총사) | 1 | O | 2024-10-30 |
 | Lv.1 | [147355. 크기가 작은 부분문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/147355. 크기가 작은 부분문자열) | 1 | O | 2024-10-28 |
+| Lv.1 | [42748. K번째수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42748. K번째수) | 1 | O | 2024-11-06 |
 | Lv.1 | [68935. 3진법 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68935. 3진법 뒤집기) | 1 | O | 2024-10-29 |
 | Lv.1 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O | 2024-10-22 |
 | Lv.1 | [76501. 음양 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/76501. 음양 더하기) | 1 | O | 2024-10-21 |
