@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 77**
+**총 풀이 수: 78**
 
 ## Level 0.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
@@ -68,6 +68,7 @@
 | Lv.1 | [12977. 소수 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12977. 소수 만들기) | 1 | O | 2024-11-03 |
 | Lv.1 | [12982. 예산](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12982. 예산) | 1 | O | 2024-10-28 |
 | Lv.1 | [131705. 삼총사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/131705. 삼총사) | 1 | O | 2024-10-30 |
+| Lv.1 | [132267. 콜라 문제](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/132267. 콜라 문제) | 1 | O | 2024-11-11 |
 | Lv.1 | [134240. 푸드 파이트 대회](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/134240. 푸드 파이트 대회) | 1 | O | 2024-11-08 |
 | Lv.1 | [142086. 가장 가까운 같은 글자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/142086. 가장 가까운 같은 글자) | 1 | O | 2024-11-08 |
 | Lv.1 | [147355. 크기가 작은 부분문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/147355. 크기가 작은 부분문자열) | 1 | O | 2024-10-28 |
