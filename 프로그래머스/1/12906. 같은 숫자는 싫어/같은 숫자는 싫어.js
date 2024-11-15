@@ -1,9 +1,19 @@
 function solution(arr)
 {
-    var answer = [];
+    let answer = [];
 
-    // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
-    console.log('Hello Javascript')
+    // 첫 요소 미리 추가
+    answer.push(arr[0]);
+    let ans_index = 0;
+    
+    for (let i = 0; i < arr.length; i++) {
+        if (answer[ans_index] === arr[i]) {
+            continue;
+        } else {
+            answer.push(arr[i]);
+            ans_index += 1;
+        }
+    }
     
     return answer;
 }
