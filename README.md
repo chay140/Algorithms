@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 81**
+**총 풀이 수: 82**
 
 ## Level 0.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
@@ -76,6 +76,7 @@
 | Lv.1 | [147355. 크기가 작은 부분문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/147355. 크기가 작은 부분문자열) | 1 | O | 2024-10-28 |
 | Lv.1 | [159994. 카드 뭉치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/159994. 카드 뭉치) | 1 | O | 2024-11-15 |
 | Lv.1 | [42748. K번째수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42748. K번째수) | 1 | O | 2024-11-06 |
+| Lv.1 | [42862. 체육복](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42862. 체육복) | 1 | O | 2024-11-15 |
 | Lv.1 | [68644. 두 개 뽑아서 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68644. 두 개 뽑아서 더하기) | 1 | O | 2024-11-07 |
 | Lv.1 | [68935. 3진법 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68935. 3진법 뒤집기) | 1 | O | 2024-10-29 |
 | Lv.1 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O | 2024-10-22 |
