@@ -39,7 +39,7 @@
 | :----: | :-------------: | :-------: | :----: | :---------: |
 | Lv.1 | [12901. 2016년](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12901. 2016년) | 1 | O | 2024-11-13 |
 | Lv.1 | [12903. 가운데 글자 가져오기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12903. 가운데 글자 가져오기) | 1 | O | 2024-10-22 |
-| Lv.1 | [12906. 같은 숫자는 싫어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12906. 같은 숫자는 싫어) | 2 | O | 2024-10-28 |
+| Lv.1 | [12906. 같은 숫자는 싫어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12906. 같은 숫자는 싫어) | 3 | O | 2024-11-15 |
 | Lv.1 | [12910. 나누어 떨어지는 숫자 배열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12910. 나누어 떨어지는 숫자 배열) | 1 | O | 2024-10-21 |
 | Lv.1 | [12912. 두 정수 사이의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12912. 두 정수 사이의 합) | 1 | O | 2024-10-21 |
 | Lv.1 | [12915. 문자열 내 마음대로 정렬하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12915. 문자열 내 마음대로 정렬하기) | 2 | O | 2024-11-05 |
