@@ -92,7 +92,7 @@
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
 | :----: | :-------------: | :-------: | :----: | :---------: |
 | Lv.2 | [12909. 올바른 괄호](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12909. 올바른 괄호) | 1 | O | 2024-11-04 |
-| Lv.2 | [12924. 숫자의 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12924. 숫자의 표현) | 1 | O | 2024-11-17 |
+| Lv.2 | [12924. 숫자의 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12924. 숫자의 표현) | 2 | O | 2024-11-18 |
 | Lv.2 | [12939. 최댓값과 최솟값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12939. 최댓값과 최솟값) | 1 | O | 2024-11-03 |
 | Lv.2 | [12941. 최솟값 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12941. 최솟값 만들기) | 1 | O | 2024-11-05 |
 | Lv.2 | [12951. JadenCase 문자열 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12951. JadenCase 문자열 만들기) | 1 | O | 2024-11-05 |
