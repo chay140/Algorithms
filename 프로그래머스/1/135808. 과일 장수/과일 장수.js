@@ -10,7 +10,7 @@ function solution(k, m, score) {
     
     score.filter((fruit, index) => {
         if ((index + 1) % m === 0) {
-            answer += score[index] * m
+            answer += fruit * m
         }
     });
     
