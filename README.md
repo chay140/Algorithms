@@ -71,7 +71,7 @@
 | Lv.1 | [131705. 삼총사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/131705. 삼총사) | 1 | O | 2024-10-30 |
 | Lv.1 | [132267. 콜라 문제](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/132267. 콜라 문제) | 1 | O | 2024-11-11 |
 | Lv.1 | [134240. 푸드 파이트 대회](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/134240. 푸드 파이트 대회) | 1 | O | 2024-11-08 |
-| Lv.1 | [135808. 과일 장수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/135808. 과일 장수) | 1 | O | 2024-11-19 |
+| Lv.1 | [135808. 과일 장수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/135808. 과일 장수) | 2 | O | 2024-11-19 |
 | Lv.1 | [138477. 명예의 전당 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/138477. 명예의 전당 （1）) | 1 | O | 2024-11-12 |
 | Lv.1 | [142086. 가장 가까운 같은 글자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/142086. 가장 가까운 같은 글자) | 1 | O | 2024-11-08 |
 | Lv.1 | [147355. 크기가 작은 부분문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/147355. 크기가 작은 부분문자열) | 1 | O | 2024-10-28 |
