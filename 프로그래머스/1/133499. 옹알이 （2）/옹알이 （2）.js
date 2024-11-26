@@ -1,22 +1,25 @@
 function solution(babbling) {
-  const can = ["aya", "ye", "woo", "ma"];
-  let count = 0;
-
-  for (let i = 0; i < babbling.length; i++) {
-    let babble = babbling[i];
-
-    for (let j = 0; j < can.length; j++) {
-      if (babble.includes(can[j].repeat(2))) {
-        break;
-      }
-
-      babble = babble.split(can[j]).join(" ");
-    }
-
-    if (babble.split(" ").join("").length === 0) {
-      count += 1;
-    }
-  }
-
-  return count;
+    let answer = 0;
+    const doable_words = ["aya", "ye", "woo", "ma"];
+    
+    babbling.forEach(babble => {
+        console.log(babble)
+        // 연속되는 옹알이 발견시 다음 단어 체크
+        const consecutiveRegex = /(aya|ye|woo|ma)\1+/;
+        if (consecutiveRegex.test(babble)) {
+            return; 
+        }
+        
+        // 1번만 등장하는 옹알이 제거
+        doable_words.forEach(word => {
+            babble = babble.replaceAll(new RegExp(word, "g"), " ");
+        });
+        
+        if (babble.trim().length === 0) {
+            console.log("answer up")
+            answer ++;
+        }
+    });
+    
+    return answer;
 }
