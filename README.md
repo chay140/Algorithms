@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 91**
+**총 풀이 수: 92**
 
 ## Level 0.
 | 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
@@ -76,6 +76,7 @@
 | Lv.1 | [135808. 과일 장수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/135808. 과일 장수) | 2 | O | 2024-11-19 |
 | Lv.1 | [136798. 기사단원의 무기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/136798. 기사단원의 무기) | 1 | O | 2024-11-22 |
 | Lv.1 | [138477. 명예의 전당 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/138477. 명예의 전당 （1）) | 1 | O | 2024-11-12 |
+| Lv.1 | [140108. 문자열 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/140108. 문자열 나누기) | 1 | O | 2024-12-04 |
 | Lv.1 | [142086. 가장 가까운 같은 글자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/142086. 가장 가까운 같은 글자) | 1 | O | 2024-11-08 |
 | Lv.1 | [147355. 크기가 작은 부분문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/147355. 크기가 작은 부분문자열) | 1 | O | 2024-10-28 |
 | Lv.1 | [159994. 카드 뭉치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/159994. 카드 뭉치) | 1 | O | 2024-11-15 |
