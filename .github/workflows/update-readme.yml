@@ -36,7 +36,8 @@ jobs:
           echo "**총 풀이 수: $total_solved**" >> $README_FILE
 
           # Append each level section
-          for level in 0 1 2; do
+          for level_folder in $(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d | sort); do
+            level=$(basename "$level_folder")
             echo "" >> $README_FILE
             echo "## Level $level." >> $README_FILE
             echo "| No.# | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |" >> $README_FILE
