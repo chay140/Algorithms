@@ -39,10 +39,11 @@ jobs:
           for level in 0 1 2; do
             echo "" >> $README_FILE
             echo "## Level $level." >> $README_FILE
-            echo "| 난이도 | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |" >> $README_FILE
+            echo "| No.# | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |" >> $README_FILE
             echo "| :----: | :-------------: | :-------: | :----: | :---------: |" >> $README_FILE
             
             # Find each problem in the level directory
+            problem_count=1
             level_folder="프로그래머스/$level"
             for problem in $(ls "$level_folder"); do
               problem_path="$level_folder/$problem"
@@ -52,7 +53,10 @@ jobs:
               problem_link="https://github.com/chay140/Algorithms/tree/main/$problem_path"
               
               # Append the problem entry to the README
-              echo "| Lv.$level | [$problem_name]($problem_link) | $commit_count | O | $latest_date |" >> $README_FILE
+              echo "| No.$problem_count | [$problem_name]($problem_link) | $commit_count | O | $latest_date |" >> $README_FILE
+
+              # Increment the problem counter
+              problem_count=$((problem_count + 1))
             done
           done
 
