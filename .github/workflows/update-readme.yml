@@ -68,7 +68,7 @@ jobs:
             echo "</div>" >> $README_FILE
             echo "</details>" >> $README_FILE
             echo "" >> $README_FILE
-            echo "Level $level: 총 $problem_count 문제" >> $README_FILE
+            echo "Level $level: 총 $((problem_count - 1)) 문제" >> $README_FILE
           done
 
           # Configure Git and commit the README update
