@@ -39,7 +39,11 @@ jobs:
           for level_folder in $(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d | sort); do
             level=$(basename "$level_folder")
             echo "" >> $README_FILE
-            echo "## Level $level." >> $README_FILE
+            echo "## Level $level" >> $README_FILE
+            echo "<details>" >> $README_FILE
+            echo "<summary>더 자세히</summary>" >> $README_FILE
+            echo "<div markdown="1">" >> $README_FILE
+            echo "" >> $README_FILE
             echo "| No.# | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |" >> $README_FILE
             echo "| :----: | :-------------: | :-------: | :----: | :---------: |" >> $README_FILE
             
@@ -59,6 +63,12 @@ jobs:
               # Increment the problem counter
               problem_count=$((problem_count + 1))
             done
+            echo "" >> $README_FILE
+            echo "<br>" >> $README_FILE
+            echo "</div>" >> $README_FILE
+            echo "</details>" >> $README_FILE
+            echo "" >> $README_FILE
+            echo "Level $level: 총 $problem_count 문제" >> $README_FILE
           done
 
           # Configure Git and commit the README update
