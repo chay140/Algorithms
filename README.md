@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 99**
+**총 풀이 수: 100**
 
 ## Level 0
 <details>
@@ -88,37 +88,38 @@ Level 0: 총 26 문제
 | No.33 | [131705. 삼총사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/131705. 삼총사) | 1 | O | 2024-10-30 |
 | No.34 | [132267. 콜라 문제](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/132267. 콜라 문제) | 1 | O | 2024-11-11 |
 | No.35 | [133499. 옹알이 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/133499. 옹알이 （2）) | 2 | O | 2024-11-26 |
-| No.36 | [134240. 푸드 파이트 대회](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/134240. 푸드 파이트 대회) | 1 | O | 2024-11-08 |
-| No.37 | [135808. 과일 장수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/135808. 과일 장수) | 2 | O | 2024-11-19 |
-| No.38 | [136798. 기사단원의 무기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/136798. 기사단원의 무기) | 1 | O | 2024-11-22 |
-| No.39 | [138477. 명예의 전당 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/138477. 명예의 전당 （1）) | 1 | O | 2024-11-12 |
-| No.40 | [140108. 문자열 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/140108. 문자열 나누기) | 1 | O | 2024-12-04 |
-| No.41 | [142086. 가장 가까운 같은 글자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/142086. 가장 가까운 같은 글자) | 1 | O | 2024-11-08 |
-| No.42 | [147355. 크기가 작은 부분문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/147355. 크기가 작은 부분문자열) | 1 | O | 2024-10-28 |
-| No.43 | [155652. 둘만의 암호](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/155652. 둘만의 암호) | 1 | O | 2024-12-08 |
-| No.44 | [159994. 카드 뭉치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/159994. 카드 뭉치) | 1 | O | 2024-11-15 |
-| No.45 | [160586. 대충 만든 자판](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/160586. 대충 만든 자판) | 1 | O | 2024-12-08 |
-| No.46 | [161989. 덧칠하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/161989. 덧칠하기) | 1 | O | 2024-11-21 |
-| No.47 | [42748. K번째수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42748. K번째수) | 1 | O | 2024-11-06 |
-| No.48 | [42840. 모의고사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42840. 모의고사) | 1 | O | 2024-11-20 |
-| No.49 | [42862. 체육복](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42862. 체육복) | 1 | O | 2024-11-15 |
-| No.50 | [68644. 두 개 뽑아서 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68644. 두 개 뽑아서 더하기) | 1 | O | 2024-11-07 |
-| No.51 | [68935. 3진법 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68935. 3진법 뒤집기) | 1 | O | 2024-10-29 |
-| No.52 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O | 2024-10-22 |
-| No.53 | [76501. 음양 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/76501. 음양 더하기) | 1 | O | 2024-10-21 |
-| No.54 | [77484. 로또의 최고 순위와 최저 순위](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77484. 로또의 최고 순위와 최저 순위) | 1 | O | 2024-11-25 |
-| No.55 | [77884. 약수의 개수와 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77884. 약수의 개수와 덧셈) | 1 | O | 2024-10-22 |
-| No.56 | [81301. 숫자 문자열과 영단어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/81301. 숫자 문자열과 영단어) | 1 | O | 2024-11-04 |
-| No.57 | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/82612. 부족한 금액 계산하기) | 1 | O | 2024-10-22 |
-| No.58 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 1 | O | 2024-10-22 |
-| No.59 | [86491. 최소직사각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86491. 최소직사각형) | 1 | O | 2024-10-28 |
-| No.60 | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/87389. 나머지가 1이 되는 수 찾기) | 1 | O | 2024-10-18 |
+| No.36 | [133502. 햄버거 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/133502. 햄버거 만들기) | 1 | O | 2024-12-09 |
+| No.37 | [134240. 푸드 파이트 대회](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/134240. 푸드 파이트 대회) | 1 | O | 2024-11-08 |
+| No.38 | [135808. 과일 장수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/135808. 과일 장수) | 2 | O | 2024-11-19 |
+| No.39 | [136798. 기사단원의 무기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/136798. 기사단원의 무기) | 1 | O | 2024-11-22 |
+| No.40 | [138477. 명예의 전당 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/138477. 명예의 전당 （1）) | 1 | O | 2024-11-12 |
+| No.41 | [140108. 문자열 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/140108. 문자열 나누기) | 1 | O | 2024-12-04 |
+| No.42 | [142086. 가장 가까운 같은 글자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/142086. 가장 가까운 같은 글자) | 1 | O | 2024-11-08 |
+| No.43 | [147355. 크기가 작은 부분문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/147355. 크기가 작은 부분문자열) | 1 | O | 2024-10-28 |
+| No.44 | [155652. 둘만의 암호](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/155652. 둘만의 암호) | 1 | O | 2024-12-08 |
+| No.45 | [159994. 카드 뭉치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/159994. 카드 뭉치) | 1 | O | 2024-11-15 |
+| No.46 | [160586. 대충 만든 자판](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/160586. 대충 만든 자판) | 1 | O | 2024-12-08 |
+| No.47 | [161989. 덧칠하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/161989. 덧칠하기) | 1 | O | 2024-11-21 |
+| No.48 | [42748. K번째수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42748. K번째수) | 1 | O | 2024-11-06 |
+| No.49 | [42840. 모의고사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42840. 모의고사) | 1 | O | 2024-11-20 |
+| No.50 | [42862. 체육복](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42862. 체육복) | 1 | O | 2024-11-15 |
+| No.51 | [68644. 두 개 뽑아서 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68644. 두 개 뽑아서 더하기) | 1 | O | 2024-11-07 |
+| No.52 | [68935. 3진법 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68935. 3진법 뒤집기) | 1 | O | 2024-10-29 |
+| No.53 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O | 2024-10-22 |
+| No.54 | [76501. 음양 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/76501. 음양 더하기) | 1 | O | 2024-10-21 |
+| No.55 | [77484. 로또의 최고 순위와 최저 순위](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77484. 로또의 최고 순위와 최저 순위) | 1 | O | 2024-11-25 |
+| No.56 | [77884. 약수의 개수와 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77884. 약수의 개수와 덧셈) | 1 | O | 2024-10-22 |
+| No.57 | [81301. 숫자 문자열과 영단어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/81301. 숫자 문자열과 영단어) | 1 | O | 2024-11-04 |
+| No.58 | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/82612. 부족한 금액 계산하기) | 1 | O | 2024-10-22 |
+| No.59 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 1 | O | 2024-10-22 |
+| No.60 | [86491. 최소직사각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86491. 최소직사각형) | 1 | O | 2024-10-28 |
+| No.61 | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/87389. 나머지가 1이 되는 수 찾기) | 1 | O | 2024-10-18 |
 
 <br>
 </div>
 </details>
 
-Level 1: 총 60 문제
+Level 1: 총 61 문제
 
 ## Level 2
 <details>
