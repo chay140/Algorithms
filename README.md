@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 106**
+**총 풀이 수: 107**
 
 ## Level 0
 <details>
@@ -31,22 +31,23 @@
 | No.16 | [120829. 각도기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120829. 각도기) | 1 | O | 2024-10-18 |
 | No.17 | [120830. 양꼬치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120830. 양꼬치) | 2 | O | 2024-10-27 |
 | No.18 | [120831. 짝수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120831. 짝수의 합) | 1 | O | 2024-10-18 |
-| No.19 | [120847. 최댓값 만들기 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120847. 최댓값 만들기 （1）) | 1 | O | 2024-10-28 |
-| No.20 | [120854. 배열 원소의 길이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120854. 배열 원소의 길이) | 1 | O | 2024-12-13 |
-| No.21 | [120898. 편지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120898. 편지) | 1 | O | 2024-10-27 |
-| No.22 | [120903. 배열의 유사도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120903. 배열의 유사도) | 1 | O | 2024-11-07 |
-| No.23 | [120910. 세균 증식](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120910. 세균 증식) | 1 | O | 2024-12-09 |
-| No.24 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O | 2024-10-21 |
-| No.25 | [181933. flag에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181933. flag에 따라 다른 값 반환하기) | 1 | O | 2024-10-25 |
-| No.26 | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181937. n의 배수) | 1 | O | 2024-10-25 |
-| No.27 | [181946. 문자열 붙여서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181946. 문자열 붙여서 출력하기) | 1 | O | 2024-10-25 |
-| No.28 | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181952. 문자열 출력하기) | 1 | O | 2024-10-23 |
+| No.19 | [120833. 배열 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120833. 배열 자르기) | 1 | O | 2024-12-16 |
+| No.20 | [120847. 최댓값 만들기 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120847. 최댓값 만들기 （1）) | 1 | O | 2024-10-28 |
+| No.21 | [120854. 배열 원소의 길이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120854. 배열 원소의 길이) | 1 | O | 2024-12-13 |
+| No.22 | [120898. 편지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120898. 편지) | 1 | O | 2024-10-27 |
+| No.23 | [120903. 배열의 유사도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120903. 배열의 유사도) | 1 | O | 2024-11-07 |
+| No.24 | [120910. 세균 증식](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120910. 세균 증식) | 1 | O | 2024-12-09 |
+| No.25 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O | 2024-10-21 |
+| No.26 | [181933. flag에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181933. flag에 따라 다른 값 반환하기) | 1 | O | 2024-10-25 |
+| No.27 | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181937. n의 배수) | 1 | O | 2024-10-25 |
+| No.28 | [181946. 문자열 붙여서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181946. 문자열 붙여서 출력하기) | 1 | O | 2024-10-25 |
+| No.29 | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181952. 문자열 출력하기) | 1 | O | 2024-10-23 |
 
 <br>
 </div>
 </details>
 
-Level 0: 총 28 문제
+Level 0: 총 29 문제
 
 ## Level 1
 <details>
