@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 108**
+**총 풀이 수: 109**
 
 ## Level 0
 <details>
@@ -122,12 +122,13 @@ Level 0: 총 29 문제
 | No.64 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 1 | O | 2024-10-22 |
 | No.65 | [86491. 최소직사각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86491. 최소직사각형) | 1 | O | 2024-10-28 |
 | No.66 | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/87389. 나머지가 1이 되는 수 찾기) | 1 | O | 2024-10-18 |
+| No.67 | [92334. 신고 결과 받기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/92334. 신고 결과 받기) | 1 | O | 2024-12-18 |
 
 <br>
 </div>
 </details>
 
-Level 1: 총 66 문제
+Level 1: 총 67 문제
 
 ## Level 2
 <details>
