@@ -148,7 +148,7 @@ Level 1: 총 67 문제
 | No.9 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 1 | O | 2024-11-04 |
 | No.10 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
 | No.11 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
-| No.12 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 1 | O | 2024-11-06 |
+| No.12 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
 
 <br>
 </div>
