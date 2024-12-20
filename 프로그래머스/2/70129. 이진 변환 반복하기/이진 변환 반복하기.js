@@ -11,7 +11,5 @@ function solution(s) {
         
         steps++;
     }
-    
-    
     return [steps, zeroes];
 }
