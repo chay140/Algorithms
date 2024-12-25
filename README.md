@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 112**
+**총 풀이 수: 113**
 
 ## Level 0
 <details>
@@ -139,25 +139,26 @@ Level 1: 총 67 문제
 | :----: | :-------------: | :-------: | :----: | :---------: |
 | No.1 | [12909. 올바른 괄호](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12909. 올바른 괄호) | 1 | O | 2024-11-04 |
 | No.2 | [12911. 다음 큰 숫자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12911. 다음 큰 숫자) | 1 | O | 2024-12-03 |
-| No.3 | [12924. 숫자의 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12924. 숫자의 표현) | 2 | O | 2024-11-18 |
-| No.4 | [12939. 최댓값과 최솟값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12939. 최댓값과 최솟값) | 1 | O | 2024-11-03 |
-| No.5 | [12941. 최솟값 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12941. 최솟값 만들기) | 1 | O | 2024-11-05 |
-| No.6 | [12945. 피보나치 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12945. 피보나치 수) | 1 | O | 2024-12-05 |
-| No.7 | [12951. JadenCase 문자열 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12951. JadenCase 문자열 만들기) | 1 | O | 2024-11-05 |
-| No.8 | [12953. N개의 최소공배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12953. N개의 최소공배수) | 1 | O | 2024-12-23 |
-| No.9 | [12973. 짝지어 제거하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12973. 짝지어 제거하기) | 1 | O | 2024-12-06 |
-| No.10 | [12985. 예상 대진표](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12985. 예상 대진표) | 1 | O | 2024-12-24 |
-| No.11 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 1 | O | 2024-11-04 |
-| No.12 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
-| No.13 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
-| No.14 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
-| No.15 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
+| No.3 | [12914. 멀리 뛰기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12914. 멀리 뛰기) | 1 | O | 2024-12-25 |
+| No.4 | [12924. 숫자의 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12924. 숫자의 표현) | 2 | O | 2024-11-18 |
+| No.5 | [12939. 최댓값과 최솟값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12939. 최댓값과 최솟값) | 1 | O | 2024-11-03 |
+| No.6 | [12941. 최솟값 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12941. 최솟값 만들기) | 1 | O | 2024-11-05 |
+| No.7 | [12945. 피보나치 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12945. 피보나치 수) | 1 | O | 2024-12-05 |
+| No.8 | [12951. JadenCase 문자열 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12951. JadenCase 문자열 만들기) | 1 | O | 2024-11-05 |
+| No.9 | [12953. N개의 최소공배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12953. N개의 최소공배수) | 1 | O | 2024-12-23 |
+| No.10 | [12973. 짝지어 제거하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12973. 짝지어 제거하기) | 1 | O | 2024-12-06 |
+| No.11 | [12985. 예상 대진표](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12985. 예상 대진표) | 1 | O | 2024-12-24 |
+| No.12 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 1 | O | 2024-11-04 |
+| No.13 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
+| No.14 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
+| No.15 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
+| No.16 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
 
 <br>
 </div>
 </details>
 
-Level 2: 총 15 문제
+Level 2: 총 16 문제
 
 ## Level 3
 <details>
