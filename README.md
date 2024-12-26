@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 113**
+**총 풀이 수: 114**
 
 ## Level 0
 <details>
@@ -148,17 +148,18 @@ Level 1: 총 67 문제
 | No.9 | [12953. N개의 최소공배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12953. N개의 최소공배수) | 1 | O | 2024-12-23 |
 | No.10 | [12973. 짝지어 제거하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12973. 짝지어 제거하기) | 1 | O | 2024-12-06 |
 | No.11 | [12985. 예상 대진표](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12985. 예상 대진표) | 1 | O | 2024-12-24 |
-| No.12 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 1 | O | 2024-11-04 |
-| No.13 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
-| No.14 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
-| No.15 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
-| No.16 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
+| No.12 | [138476. 귤 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/138476. 귤 고르기) | 1 | O | 2024-12-26 |
+| No.13 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 1 | O | 2024-11-04 |
+| No.14 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
+| No.15 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
+| No.16 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
+| No.17 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
 
 <br>
 </div>
 </details>
 
-Level 2: 총 16 문제
+Level 2: 총 17 문제
 
 ## Level 3
 <details>
