@@ -1,5 +1,4 @@
 function solution(numbers) {
-    // 모범 답안 참조
     const result = new Array(numbers.length).fill(-1);
     const stack = [];
     for (let i = 0; i < numbers.length; i++) {
