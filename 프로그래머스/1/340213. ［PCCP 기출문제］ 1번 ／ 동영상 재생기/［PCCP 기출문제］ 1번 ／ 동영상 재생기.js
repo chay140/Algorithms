@@ -26,10 +26,7 @@ function solution(video_len, pos, op_start, op_end, commands) {
         };
         answer = auto_op_end(answer);
     })
-    
-    // 실행 후 위치가 오프닝인 경우
-    if (answer >= start_time && answer <= end_time) answer = end_time;
-        
+            
     // str로 바꾸기
     const m = Math.floor(answer / 60);
     const s = answer % 60
