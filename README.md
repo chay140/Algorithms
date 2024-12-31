@@ -110,7 +110,7 @@ Level 0: 총 31 문제
 | No.50 | [161990. 바탕화면 정리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/161990. 바탕화면 정리) | 1 | O | 2024-12-12 |
 | No.51 | [172928. 공원 산책](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/172928. 공원 산책) | 1 | O | 2024-12-17 |
 | No.52 | [178871. 달리기 경주](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/178871. 달리기 경주) | 1 | O | 2024-12-15 |
-| No.53 | [340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기) | 1 | O | 2025-01-01 |
+| No.53 | [340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기) | 2 | O | 2025-01-01 |
 | No.54 | [42748. K번째수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42748. K번째수) | 1 | O | 2024-11-06 |
 | No.55 | [42840. 모의고사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42840. 모의고사) | 1 | O | 2024-11-20 |
 | No.56 | [42862. 체육복](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42862. 체육복) | 1 | O | 2024-11-15 |
