@@ -59,7 +59,7 @@ jobs:
               problem_link="https://github.com/chay140/Algorithms/tree/main/$problem_path"
               
               # 가장 최근에 푼 레밸 날짜
-              if [ -z "$latest_date_per_level" ] || [ "$latest_date" \> "$latest_date_per_level" ]; then
+              if [ -z "$latest_date_per_level" ] || [ "$(echo "$latest_date" | sed 's/-//g')" -gt "$(echo "$latest_date_per_level" | sed 's/-//g')" ]; then
                 latest_date_per_level="$latest_date"
               fi
 
