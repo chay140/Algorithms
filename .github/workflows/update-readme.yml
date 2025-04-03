@@ -35,7 +35,7 @@ jobs:
           echo "# 프로그래머스 문제" >> $README_FILE
           echo "**총 풀이 수: $total_solved**" >> $README_FILE
 
-          # Append each level section
+          # 각 레밸
           for level_folder in $(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d | sort); do
             level=$(basename "$level_folder")
             echo "" >> $README_FILE
@@ -47,9 +47,10 @@ jobs:
             echo "| No.# | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |" >> $README_FILE
             echo "| :----: | :-------------: | :-------: | :----: | :---------: |" >> $README_FILE
             
-            # Find each problem in the level directory
+            # 문제별 데이터
             problem_count=1
             level_folder="프로그래머스/$level"
+            latest_date_per_level=""
             for problem in $(ls "$level_folder"); do
               problem_path="$level_folder/$problem"
               problem_name=$(basename "$problem")
@@ -57,7 +58,12 @@ jobs:
               latest_date=$(git log -1 --date=short --pretty=format:"%ad" -- "$problem_path")
               problem_link="https://github.com/chay140/Algorithms/tree/main/$problem_path"
               
-              # Append the problem entry to the README
+              # 가장 최근에 푼 레밸 날짜
+              if [ -z "$latest_date_per_level" ] || [ "$latest_date" \> "$latest_date_per_level" ]; then
+                latest_date_per_level="$latest_date"
+              fi
+
+              # 리드미에 문제 추가
               echo "| No.$problem_count | [$problem_name]($problem_link) | $commit_count | O | $latest_date |" >> $README_FILE
 
               # Increment the problem counter
@@ -68,7 +74,7 @@ jobs:
             echo "</div>" >> $README_FILE
             echo "</details>" >> $README_FILE
             echo "" >> $README_FILE
-            echo "Level $level: 총 $((problem_count - 1)) 문제" >> $README_FILE
+            echo "Level $level: 총 $((problem_count - 1)) 문제 [가장 최근 $((latest_date_per_level))]" >> $README_FILE
           done
 
           # Configure Git and commit the README update
