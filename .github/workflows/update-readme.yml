@@ -50,21 +50,12 @@ jobs:
             # 문제별 데이터
             problem_count=1
             level_folder="프로그래머스/$level"
-            latest_date_per_level=""
             for problem in $(ls "$level_folder"); do
               problem_path="$level_folder/$problem"
               problem_name=$(basename "$problem")
               commit_count=$(git rev-list --count HEAD -- "$problem_path")
               latest_date=$(git log -1 --date=short --pretty=format:"%ad" -- "$problem_path")
               problem_link="https://github.com/chay140/Algorithms/tree/main/$problem_path"
-              
-              # 가장 최근에 푼 레밸 날짜 (날짜를 숫자로 변환하여 비교)
-              latest_date_numeric=$(echo "$latest_date" | sed 's/-//g')
-              latest_date_per_level_numeric=$(echo "$latest_date_per_level" | sed 's/-//g')
-              
-              if [ -z "$latest_date_per_level" ] || [ "$latest_date_numeric" -gt "$latest_date_per_level_numeric" ]; then
-                latest_date_per_level="$latest_date"
-              fi
 
               # 리드미에 문제 추가
               echo "| No.$problem_count | [$problem_name]($problem_link) | $commit_count | O | $latest_date |" >> $README_FILE
@@ -77,7 +68,7 @@ jobs:
             echo "</div>" >> $README_FILE
             echo "</details>" >> $README_FILE
             echo "" >> $README_FILE
-            echo "Level $level: 총 $((problem_count - 1)) 문제 [가장 최근 $((latest_date_per_level))]" >> $README_FILE
+            echo "Level $level: 총 $((problem_count - 1)) 문제" >> $README_FILE
           done
 
           # Configure Git and commit the README update
