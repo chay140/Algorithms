@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 131**
+**총 풀이 수: 132**
 
 ## Level 0
 <details>
@@ -42,20 +42,21 @@
 | No.27 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O | 2024-10-21 |
 | No.28 | [181933. flag에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181933. flag에 따라 다른 값 반환하기) | 1 | O | 2024-10-25 |
 | No.29 | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181937. n의 배수) | 1 | O | 2024-10-25 |
-| No.30 | [181945. 문자열 돌리기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181945. 문자열 돌리기) | 1 | O | 2025-04-04 |
-| No.31 | [181946. 문자열 붙여서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181946. 문자열 붙여서 출력하기) | 1 | O | 2024-10-25 |
-| No.32 | [181947. 덧셈식 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181947. 덧셈식 출력하기) | 1 | O | 2025-04-04 |
-| No.33 | [181948. 특수문자 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181948. 특수문자 출력하기) | 1 | O | 2025-03-12 |
-| No.34 | [181949. 대소문자 바꿔서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181949. 대소문자 바꿔서 출력하기) | 1 | O | 2025-03-09 |
-| No.35 | [181950. 문자열 반복해서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181950. 문자열 반복해서 출력하기) | 1 | O | 2025-03-09 |
-| No.36 | [181951. a와 b 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181951. a와 b 출력하기) | 1 | O | 2024-12-29 |
-| No.37 | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181952. 문자열 출력하기) | 1 | O | 2024-10-23 |
+| No.30 | [181944. 홀짝 구분하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181944. 홀짝 구분하기) | 1 | O | 2025-04-04 |
+| No.31 | [181945. 문자열 돌리기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181945. 문자열 돌리기) | 1 | O | 2025-04-04 |
+| No.32 | [181946. 문자열 붙여서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181946. 문자열 붙여서 출력하기) | 1 | O | 2024-10-25 |
+| No.33 | [181947. 덧셈식 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181947. 덧셈식 출력하기) | 1 | O | 2025-04-04 |
+| No.34 | [181948. 특수문자 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181948. 특수문자 출력하기) | 1 | O | 2025-03-12 |
+| No.35 | [181949. 대소문자 바꿔서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181949. 대소문자 바꿔서 출력하기) | 1 | O | 2025-03-09 |
+| No.36 | [181950. 문자열 반복해서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181950. 문자열 반복해서 출력하기) | 1 | O | 2025-03-09 |
+| No.37 | [181951. a와 b 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181951. a와 b 출력하기) | 1 | O | 2024-12-29 |
+| No.38 | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181952. 문자열 출력하기) | 1 | O | 2024-10-23 |
 
 <br>
 </div>
 </details>
 
-Level 0: 총 37 문제 [가장 최근 2017]
+Level 0: 총 38 문제
 
 ## Level 1
 <details>
@@ -138,7 +139,7 @@ Level 0: 총 37 문제 [가장 최근 2017]
 </div>
 </details>
 
-Level 1: 총 69 문제 [가장 최근 2018]
+Level 1: 총 69 문제
 
 ## Level 2
 <details>
@@ -176,7 +177,7 @@ Level 1: 총 69 문제 [가장 최근 2018]
 </div>
 </details>
 
-Level 2: 총 24 문제 [가장 최근 2018]
+Level 2: 총 24 문제
 
 ## Level 3
 <details>
@@ -191,3 +192,4 @@ Level 2: 총 24 문제 [가장 최근 2018]
 </div>
 </details>
 
+Level 3: 총 1 문제
