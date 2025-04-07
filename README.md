@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 133**
+**총 풀이 수: 134**
 
 ## Level 0
 <details>
@@ -173,12 +173,13 @@ Level 1: 총 70 문제
 | No.22 | [68936. 쿼드압축 후 개수 세기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68936. 쿼드압축 후 개수 세기) | 1 | O | 2025-04-03 |
 | No.23 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
 | No.24 | [76502. 괄호 회전하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/76502. 괄호 회전하기) | 1 | O | 2024-12-29 |
+| No.25 | [86971. 전력망을 둘로 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/86971. 전력망을 둘로 나누기) | 1 | O | 2025-04-07 |
 
 <br>
 </div>
 </details>
 
-Level 2: 총 24 문제
+Level 2: 총 25 문제
 
 ## Level 3
 <details>
