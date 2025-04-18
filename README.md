@@ -170,7 +170,7 @@ Level 1: 총 72 문제
 | No.17 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 2 | O | 2024-12-27 |
 | No.18 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
 | No.19 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
-| No.20 | [42577. 전화번호 목록](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42577. 전화번호 목록) | 1 | O | 2025-04-18 |
+| No.20 | [42577. 전화번호 목록](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42577. 전화번호 목록) | 2 | O | 2025-04-18 |
 | No.21 | [42746. 가장 큰 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42746. 가장 큰 수) | 1 | O | 2025-04-18 |
 | No.22 | [42747. H－Index](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42747. H－Index) | 1 | O | 2025-01-03 |
 | No.23 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
