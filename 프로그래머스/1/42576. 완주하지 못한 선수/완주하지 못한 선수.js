@@ -1,16 +1,18 @@
 function solution(participant, completion) {
-    // completion.forEach((player) => {
-    //     const index = participant.indexOf(player);
-    //     participant.splice(index, 1);
-    // })
+    const map = new Map();
     
-    // return participant[0];
-    
-    participant.sort();
-    completion.sort();
-
-    for (let i = 0; i < completion.length; i++) {
-        if (participant[i] !== completion[i]) return participant[i];
+    for (let i = 0; i < participant.length; i++) {
+        const a = participant[i],
+              b = completion[i];
+        
+        map.set(a, (map.get(a) || 0) + 1);
+        map.set(b, (map.get(b) || 0) - 1);
     }
-    return participant.slice(-1)[0];
+    
+    for (let [k, v] of map) {
+        if (v > 0) return k;
+    }
+    
+    // 문제 제한 사항에 따라
+    return 'should_never_be_returned';
 }
