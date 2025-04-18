@@ -1,13 +1,16 @@
 function solution(phone_book) {
     let answer = true;
-    phone_book.sort();
+    const set = new Set(phone_book);
     
-    for (let i = 0; i < phone_book.length - 1; i++) {
-        if (phone_book[i+1].indexOf(phone_book[i]) === 0) {
-            answer = false;
-            break;
+    for (let number of set) {
+        for (let i = 0; i < number.length - 1; i++) {
+            const prefix = number.slice(0, i + 1);
+                        
+            if (set.has(prefix)) {
+                answer = false;
+                break;
+            }
         }
     }
-    
     return answer;
 }
