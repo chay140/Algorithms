@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 147**
+**총 풀이 수: 148**
 
 ## Level 0
 <details>
@@ -208,3 +208,18 @@ Level 2: 총 32 문제
 </details>
 
 Level 3: 총 5 문제
+
+## Level 4
+<details>
+<summary>더 자세히</summary>
+<div markdown=1>
+
+| No.# | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
+| :----: | :-------------: | :-------: | :----: | :---------: |
+| No.1 | [1843. 사칙연산](https://github.com/chay140/Algorithms/tree/main/프로그래머스/4/1843. 사칙연산) | 1 | O | 2025-04-20 |
+
+<br>
+</div>
+</details>
+
+Level 4: 총 1 문제
