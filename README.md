@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 146**
+**총 풀이 수: 147**
 
 ## Level 0
 <details>
@@ -177,17 +177,18 @@ Level 1: 총 72 문제
 | No.24 | [42839. 소수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42839. 소수 찾기) | 1 | O | 2025-04-19 |
 | No.25 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
 | No.26 | [42885. 구명보트](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42885. 구명보트) | 1 | O | 2025-03-01 |
-| No.27 | [68645. 삼각 달팽이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68645. 삼각 달팽이) | 1 | O | 2025-04-03 |
-| No.28 | [68936. 쿼드압축 후 개수 세기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68936. 쿼드압축 후 개수 세기) | 1 | O | 2025-04-03 |
-| No.29 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
-| No.30 | [76502. 괄호 회전하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/76502. 괄호 회전하기) | 1 | O | 2024-12-29 |
-| No.31 | [86971. 전력망을 둘로 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/86971. 전력망을 둘로 나누기) | 1 | O | 2025-04-07 |
+| No.27 | [43165. 타겟 넘버](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/43165. 타겟 넘버) | 1 | O | 2025-04-20 |
+| No.28 | [68645. 삼각 달팽이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68645. 삼각 달팽이) | 1 | O | 2025-04-03 |
+| No.29 | [68936. 쿼드압축 후 개수 세기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68936. 쿼드압축 후 개수 세기) | 1 | O | 2025-04-03 |
+| No.30 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
+| No.31 | [76502. 괄호 회전하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/76502. 괄호 회전하기) | 1 | O | 2024-12-29 |
+| No.32 | [86971. 전력망을 둘로 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/86971. 전력망을 둘로 나누기) | 1 | O | 2025-04-07 |
 
 <br>
 </div>
 </details>
 
-Level 2: 총 31 문제
+Level 2: 총 32 문제
 
 ## Level 3
 <details>
