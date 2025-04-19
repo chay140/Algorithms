@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 142**
+**총 풀이 수: 143**
 
 ## Level 0
 <details>
@@ -195,11 +195,12 @@ Level 2: 총 30 문제
 
 | No.# | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
 | :----: | :-------------: | :-------: | :----: | :---------: |
-| No.1 | [43105. 정수 삼각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43105. 정수 삼각형) | 1 | O | 2024-12-08 |
-| No.2 | [43162. 네트워크](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43162. 네트워크) | 1 | O | 2025-04-09 |
+| No.1 | [42579. 베스트앨범](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42579. 베스트앨범) | 1 | O | 2025-04-19 |
+| No.2 | [43105. 정수 삼각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43105. 정수 삼각형) | 1 | O | 2024-12-08 |
+| No.3 | [43162. 네트워크](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43162. 네트워크) | 1 | O | 2025-04-09 |
 
 <br>
 </div>
 </details>
 
-Level 3: 총 2 문제
+Level 3: 총 3 문제
