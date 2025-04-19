@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 148**
+**총 풀이 수: 149**
 
 ## Level 0
 <details>
@@ -198,16 +198,17 @@ Level 2: 총 32 문제
 | No.# | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
 | :----: | :-------------: | :-------: | :----: | :---------: |
 | No.1 | [42579. 베스트앨범](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42579. 베스트앨범) | 1 | O | 2025-04-19 |
-| No.2 | [42895. N으로 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42895. N으로 표현) | 1 | O | 2025-04-19 |
-| No.3 | [42898. 등굣길](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42898. 등굣길) | 2 | O | 2025-04-19 |
-| No.4 | [43105. 정수 삼각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43105. 정수 삼각형) | 1 | O | 2024-12-08 |
-| No.5 | [43162. 네트워크](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43162. 네트워크) | 2 | O | 2025-04-20 |
+| No.2 | [42892. 길 찾기 게임](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42892. 길 찾기 게임) | 1 | O | 2025-04-20 |
+| No.3 | [42895. N으로 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42895. N으로 표현) | 1 | O | 2025-04-19 |
+| No.4 | [42898. 등굣길](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42898. 등굣길) | 2 | O | 2025-04-19 |
+| No.5 | [43105. 정수 삼각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43105. 정수 삼각형) | 1 | O | 2024-12-08 |
+| No.6 | [43162. 네트워크](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43162. 네트워크) | 2 | O | 2025-04-20 |
 
 <br>
 </div>
 </details>
 
-Level 3: 총 5 문제
+Level 3: 총 6 문제
 
 ## Level 4
 <details>
