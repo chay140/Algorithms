@@ -15,8 +15,7 @@ function solution(n, computers) {
                 needVisit.push(nextNode)
             })
         }
-        return visited;
-    };
+    }
     
     for (let i = 0; i < n; i++) {
         if (!visited[i]) {
