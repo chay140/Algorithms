@@ -127,7 +127,7 @@ Level 0: 총 44 문제
 | No.54 | [1845. 폰켓몬](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/1845. 폰켓몬) | 1 | O | 2025-04-18 |
 | No.55 | [258712. 가장 많이 받은 선물](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/258712. 가장 많이 받은 선물) | 1 | O | 2025-04-05 |
 | No.56 | [340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기) | 2 | O | 2025-01-01 |
-| No.57 | [42576. 완주하지 못한 선수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42576. 완주하지 못한 선수) | 2 | O | 2025-04-18 |
+| No.57 | [42576. 완주하지 못한 선수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42576. 완주하지 못한 선수) | 3 | O | 2025-07-04 |
 | No.58 | [42748. K번째수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42748. K번째수) | 1 | O | 2024-11-06 |
 | No.59 | [42840. 모의고사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42840. 모의고사) | 1 | O | 2024-11-20 |
 | No.60 | [42862. 체육복](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42862. 체육복) | 1 | O | 2024-11-15 |
