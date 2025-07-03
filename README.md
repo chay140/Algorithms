@@ -177,7 +177,7 @@ Level 1: 총 72 문제
 | No.18 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
 | No.19 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
 | No.20 | [1844. 게임 맵 최단거리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/1844. 게임 맵 최단거리) | 1 | O | 2025-04-20 |
-| No.21 | [42577. 전화번호 목록](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42577. 전화번호 목록) | 2 | O | 2025-04-18 |
+| No.21 | [42577. 전화번호 목록](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42577. 전화번호 목록) | 3 | O | 2025-07-04 |
 | No.22 | [42578. 의상](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42578. 의상) | 1 | O | 2025-04-19 |
 | No.23 | [42586. 기능개발](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42586. 기능개발) | 1 | O | 2025-05-09 |
 | No.24 | [42587. 프로세스](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42587. 프로세스) | 1 | O | 2025-06-01 |
