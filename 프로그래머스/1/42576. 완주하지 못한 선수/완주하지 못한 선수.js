@@ -1,18 +1,25 @@
 function solution(participant, completion) {
-    const map = new Map();
+    // 해시를 이용한 방법
+    const hash_map = new Map();
     
-    for (let i = 0; i < participant.length; i++) {
-        const a = participant[i],
-              b = completion[i];
-        
-        map.set(a, (map.get(a) || 0) + 1);
-        map.set(b, (map.get(b) || 0) - 1);
-    }
+    // 참가자 map에 등록
+    participant.forEach((element) => {
+        // 동명이인의 경우
+        if (hash_map.get(element)) {
+            hash_map.set(element, hash_map.get(element) + 1);
+        } else {
+            // 최초의 이름인 경우
+            hash_map.set(element, 1);
+        }
+    })
     
-    for (let [k, v] of map) {
-        if (v > 0) return k;
-    }
+    // 완주 선수 체크
+    completion.forEach((element) => {
+        hash_map.set(element, hash_map.get(element) - 1);
+    })
     
-    // 문제 제한 사항에 따라
-    return 'should_never_be_returned';
+    // 1인 선수 찾기
+    const sorted = [...hash_map.entries()].sort((a, b) => b[1] - a[1]);
+    
+    return sorted[0][0];
 }
