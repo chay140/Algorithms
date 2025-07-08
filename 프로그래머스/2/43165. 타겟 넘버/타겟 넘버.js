@@ -1,21 +1,22 @@
 function solution(numbers, target) {
     let count = 0;
     
-    const dfs = (depth, sum) => {
-        // 탈출 조건
-        if (depth === numbers.length) {
-            // 타겟 넘버를 찾은 경우
+    // 반복 DFS (Stack 사용)
+    let stack = [{ index: 0, sum: 0 }];
+    
+    // 방문해야할 노드가 없다면 탈출
+    while (stack.length) {
+        const { index, sum } = stack.pop();
+        
+        // 타겟 넘버를 발견한 경우
+        if (index === numbers.length) {
             if (sum === target) count++;
-            return;
+            continue;       // 다음 후보 경로로 넘어가기
         }
         
-        // +/- 재귀 수행
-        dfs(depth + 1, sum + numbers[depth]);
-        dfs(depth + 1, sum - numbers[depth]);
+        stack.push({ index: index + 1, sum: sum + numbers[index] });
+        stack.push({ index: index + 1, sum: sum - numbers[index] });
     }
-    
-    // 그래프 돌기 전 depth = 0, sum = 0
-    dfs(0, 0);
     
     return count;
 }
