@@ -24,7 +24,7 @@
 | No.9 | [120809. 배열 두배 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120809. 배열 두배 만들기) | 1 | O | 2024-10-23 |
 | No.10 | [120810. 나머지 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120810. 나머지 구하기) | 1 | O | 2024-10-23 |
 | No.11 | [120811. 중앙값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120811. 중앙값 구하기) | 1 | O | 2024-10-27 |
-| No.12 | [120812. 최빈값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120812. 최빈값 구하기) | 1 | O | 2025-07-17 |
+| No.12 | [120812. 최빈값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120812. 최빈값 구하기) | 2 | O | 2025-07-17 |
 | No.13 | [120813. 짝수는 싫어요](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120813. 짝수는 싫어요) | 1 | O | 2024-10-27 |
 | No.14 | [120814. 피자 나눠 먹기 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120814. 피자 나눠 먹기 （1）) | 1 | O | 2025-06-16 |
 | No.15 | [120817. 배열의 평균값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120817. 배열의 평균값) | 1 | O | 2024-10-18 |
