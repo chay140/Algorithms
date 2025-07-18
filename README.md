@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 172**
+**총 풀이 수: 173**
 
 ## Level 0
 <details>
@@ -68,12 +68,13 @@
 | No.53 | [181950. 문자열 반복해서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181950. 문자열 반복해서 출력하기) | 1 | O | 2025-03-09 |
 | No.54 | [181951. a와 b 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181951. a와 b 출력하기) | 1 | O | 2024-12-29 |
 | No.55 | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181952. 문자열 출력하기) | 1 | O | 2024-10-23 |
+| No.56 | [340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기) | 1 | O | 2025-07-18 |
 
 <br>
 </div>
 </details>
 
-Level 0: 총 55 문제
+Level 0: 총 56 문제
 
 ## Level 1
 <details>
