@@ -1,11 +1,7 @@
 function solution(arr, queries) {
-    for (const query of queries) {
-        const first = arr[query[0]];
-        const second = arr[query[1]];
-        
-        arr[query[0]] = second;
-        arr[query[1]] = first;
+    for(let [i, j] of queries) {
+        // 구조분해 할당은 가능
+        [arr[i], arr[j]] = [arr[j], arr[i]];
     }
-    
     return arr;
 }
