@@ -5,17 +5,6 @@ function solution(numLog) {
         "10": "d",
         "-10": "a"
     }
-    let answer = "";
     
-    let prev = numLog[0];
-    for (let i = 1; i < numLog.length; i++) {
-        const curr = numLog[i];
-        
-        const diff = String(numLog[i] - prev);
-        answer += operations[diff];
-        
-        prev = curr;
-    }
-    
-    return answer;
+    return numLog.slice(1).map((val, idx) => operations[val - numLog[idx]]).join("")
 }
