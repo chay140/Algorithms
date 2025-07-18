@@ -1,6 +1,11 @@
 function solution(n) {
-    const gcd = (a, b) => a % b === 0 ? b : gcd(b, a % b);
-    const lcm = (a, b) => a * b / gcd(a, b);
+    let pieces = 6;
     
-    return lcm(n, 6) / 6;
+    while (true) {
+        if (pieces % n === 0) break;
+        
+        pieces += 6;
+    }
+    
+    return pieces / 6;
 }
