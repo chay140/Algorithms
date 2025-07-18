@@ -27,7 +27,7 @@
 | No.12 | [120812. 최빈값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120812. 최빈값 구하기) | 2 | O | 2025-07-17 |
 | No.13 | [120813. 짝수는 싫어요](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120813. 짝수는 싫어요) | 1 | O | 2024-10-27 |
 | No.14 | [120814. 피자 나눠 먹기 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120814. 피자 나눠 먹기 （1）) | 1 | O | 2025-06-16 |
-| No.15 | [120815. 피자 나눠 먹기 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120815. 피자 나눠 먹기 （2）) | 1 | O | 2025-07-18 |
+| No.15 | [120815. 피자 나눠 먹기 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120815. 피자 나눠 먹기 （2）) | 2 | O | 2025-07-18 |
 | No.16 | [120817. 배열의 평균값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120817. 배열의 평균값) | 1 | O | 2024-10-18 |
 | No.17 | [120820. 나이 출력](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120820. 나이 출력) | 1 | O | 2024-10-18 |
 | No.18 | [120821. 배열 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120821. 배열 뒤집기) | 1 | O | 2024-12-11 |
