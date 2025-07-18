@@ -6,9 +6,5 @@ function solution(n, control) {
         "a": -10
     }
     
-    for (const c of control) {
-        n += operation[c];
-    }
-    
-    return n;
+    return [...control].reduce((acc, curr) => acc + operation[curr], n);
 }
