@@ -3,8 +3,7 @@ function solution(numbers, n) {
     
     let i = 0;
     while (answer <= n) {
-        answer += numbers[i];
-        i++;
+        answer += numbers[i++];
     }
     
     return answer;
