@@ -55,7 +55,7 @@
 | No.40 | [181879. 길이에 따른 연산](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181879. 길이에 따른 연산) | 1 | O | 2025-07-19 |
 | No.41 | [181882. 조건에 맞게 수열 변환하기 1](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181882. 조건에 맞게 수열 변환하기 1) | 1 | O | 2025-07-19 |
 | No.42 | [181884. n보다 커질 때까지 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181884. n보다 커질 때까지 더하기) | 2 | O | 2025-07-19 |
-| No.43 | [181918. 배열 만들기 4](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181918. 배열 만들기 4) | 1 | O | 2025-07-20 |
+| No.43 | [181918. 배열 만들기 4](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181918. 배열 만들기 4) | 2 | O | 2025-07-20 |
 | No.44 | [181919. 콜라츠 수열 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181919. 콜라츠 수열 만들기) | 1 | O | 2025-07-20 |
 | No.45 | [181921. 배열 만들기 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181921. 배열 만들기 2) | 1 | O | 2025-07-20 |
 | No.46 | [181922. 수열과 구간 쿼리 4](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181922. 수열과 구간 쿼리 4) | 1 | O | 2025-07-19 |
