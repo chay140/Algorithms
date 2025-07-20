@@ -7,12 +7,11 @@ function solution(N, stages) {
     // 반복
     // 실패율 기준으로 정리 (내림차순)
     
-    
-    // O(n) (n = stage.length)
+    // O(k) (k = stage.length)
     const challenger_map = new Map();
     stages.forEach(stage => challenger_map.set(stage, (challenger_map.get(stage) || 0) + 1));
     
-    // 실패율 계산
+    // O(N) 실패율 계산
     let total_challengers = stages.length;
     let rates = [];
     for (let i = 0; i < N; i++) {
@@ -20,8 +19,9 @@ function solution(N, stages) {
         total_challengers -= challenger_map.get(i + 1) || 0;
     }
     
-    // O(n log n)
+    // O(N log N)
     const sorted_rates = rates.map((val, idx) => ({stage: idx + 1, val})).sort((a, b) => b.val - a.val);
 
+    // O(N)
     return sorted_rates.map((val) => val["stage"]);
 }
