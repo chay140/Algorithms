@@ -1,7 +1,3 @@
 function solution(number) {
-    let total = 0;
-    
-    for (const char of number) total += Number(char);
-    
-    return total % 9;
+    return number.split("").reduce((acc, curr) => acc + Number(curr), 0) % 9;
 }
