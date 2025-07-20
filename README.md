@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 196**
+**총 풀이 수: 197**
 
 ## Level 0
 <details>
@@ -158,32 +158,33 @@ Level 0: 총 79 문제
 | No.50 | [161990. 바탕화면 정리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/161990. 바탕화면 정리) | 1 | O | 2024-12-12 |
 | No.51 | [172928. 공원 산책](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/172928. 공원 산책) | 1 | O | 2024-12-17 |
 | No.52 | [17681. ［1차］ 비밀지도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/17681. ［1차］ 비밀지도) | 1 | O | 2025-04-03 |
-| No.53 | [178871. 달리기 경주](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/178871. 달리기 경주) | 1 | O | 2024-12-15 |
-| No.54 | [1845. 폰켓몬](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/1845. 폰켓몬) | 3 | O | 2025-07-06 |
-| No.55 | [258712. 가장 많이 받은 선물](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/258712. 가장 많이 받은 선물) | 1 | O | 2025-04-05 |
-| No.56 | [340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기) | 2 | O | 2025-01-01 |
-| No.57 | [42576. 완주하지 못한 선수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42576. 완주하지 못한 선수) | 3 | O | 2025-07-04 |
-| No.58 | [42748. K번째수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42748. K번째수) | 1 | O | 2024-11-06 |
-| No.59 | [42840. 모의고사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42840. 모의고사) | 1 | O | 2024-11-20 |
-| No.60 | [42862. 체육복](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42862. 체육복) | 1 | O | 2024-11-15 |
-| No.61 | [68644. 두 개 뽑아서 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68644. 두 개 뽑아서 더하기) | 1 | O | 2024-11-07 |
-| No.62 | [68935. 3진법 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68935. 3진법 뒤집기) | 1 | O | 2024-10-29 |
-| No.63 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O | 2024-10-22 |
-| No.64 | [76501. 음양 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/76501. 음양 더하기) | 1 | O | 2024-10-21 |
-| No.65 | [77484. 로또의 최고 순위와 최저 순위](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77484. 로또의 최고 순위와 최저 순위) | 1 | O | 2024-11-25 |
-| No.66 | [77884. 약수의 개수와 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77884. 약수의 개수와 덧셈) | 1 | O | 2024-10-22 |
-| No.67 | [81301. 숫자 문자열과 영단어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/81301. 숫자 문자열과 영단어) | 1 | O | 2024-11-04 |
-| No.68 | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/82612. 부족한 금액 계산하기) | 1 | O | 2024-10-22 |
-| No.69 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 1 | O | 2024-10-22 |
-| No.70 | [86491. 최소직사각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86491. 최소직사각형) | 1 | O | 2024-10-28 |
-| No.71 | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/87389. 나머지가 1이 되는 수 찾기) | 1 | O | 2024-10-18 |
-| No.72 | [92334. 신고 결과 받기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/92334. 신고 결과 받기) | 1 | O | 2024-12-18 |
+| No.53 | [176963. 추억 점수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/176963. 추억 점수) | 1 | O | 2025-07-20 |
+| No.54 | [178871. 달리기 경주](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/178871. 달리기 경주) | 1 | O | 2024-12-15 |
+| No.55 | [1845. 폰켓몬](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/1845. 폰켓몬) | 3 | O | 2025-07-06 |
+| No.56 | [258712. 가장 많이 받은 선물](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/258712. 가장 많이 받은 선물) | 1 | O | 2025-04-05 |
+| No.57 | [340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기) | 2 | O | 2025-01-01 |
+| No.58 | [42576. 완주하지 못한 선수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42576. 완주하지 못한 선수) | 3 | O | 2025-07-04 |
+| No.59 | [42748. K번째수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42748. K번째수) | 1 | O | 2024-11-06 |
+| No.60 | [42840. 모의고사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42840. 모의고사) | 1 | O | 2024-11-20 |
+| No.61 | [42862. 체육복](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42862. 체육복) | 1 | O | 2024-11-15 |
+| No.62 | [68644. 두 개 뽑아서 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68644. 두 개 뽑아서 더하기) | 1 | O | 2024-11-07 |
+| No.63 | [68935. 3진법 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68935. 3진법 뒤집기) | 1 | O | 2024-10-29 |
+| No.64 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O | 2024-10-22 |
+| No.65 | [76501. 음양 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/76501. 음양 더하기) | 1 | O | 2024-10-21 |
+| No.66 | [77484. 로또의 최고 순위와 최저 순위](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77484. 로또의 최고 순위와 최저 순위) | 1 | O | 2024-11-25 |
+| No.67 | [77884. 약수의 개수와 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77884. 약수의 개수와 덧셈) | 1 | O | 2024-10-22 |
+| No.68 | [81301. 숫자 문자열과 영단어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/81301. 숫자 문자열과 영단어) | 1 | O | 2024-11-04 |
+| No.69 | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/82612. 부족한 금액 계산하기) | 1 | O | 2024-10-22 |
+| No.70 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 1 | O | 2024-10-22 |
+| No.71 | [86491. 최소직사각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86491. 최소직사각형) | 1 | O | 2024-10-28 |
+| No.72 | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/87389. 나머지가 1이 되는 수 찾기) | 1 | O | 2024-10-18 |
+| No.73 | [92334. 신고 결과 받기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/92334. 신고 결과 받기) | 1 | O | 2024-12-18 |
 
 <br>
 </div>
 </details>
 
-Level 1: 총 72 문제
+Level 1: 총 73 문제
 
 ## Level 2
 <details>
