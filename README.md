@@ -171,7 +171,7 @@ Level 0: 총 82 문제
 | No.60 | [42748. K번째수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42748. K번째수) | 1 | O | 2024-11-06 |
 | No.61 | [42840. 모의고사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42840. 모의고사) | 1 | O | 2024-11-20 |
 | No.62 | [42862. 체육복](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42862. 체육복) | 1 | O | 2024-11-15 |
-| No.63 | [42889. 실패율](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42889. 실패율) | 1 | O | 2025-07-21 |
+| No.63 | [42889. 실패율](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42889. 실패율) | 2 | O | 2025-07-21 |
 | No.64 | [68644. 두 개 뽑아서 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68644. 두 개 뽑아서 더하기) | 1 | O | 2024-11-07 |
 | No.65 | [68935. 3진법 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68935. 3진법 뒤집기) | 1 | O | 2024-10-29 |
 | No.66 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O | 2024-10-22 |
