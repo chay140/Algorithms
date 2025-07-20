@@ -4,7 +4,7 @@
 > _Readme는 문제 번호에 따라 자동 업데이트 합니다._
 
 # 프로그래머스 문제
-**총 풀이 수: 206**
+**총 풀이 수: 207**
 
 ## Level 0
 <details>
@@ -13,98 +13,99 @@
 
 | No.# | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |
 | :----: | :-------------: | :-------: | :----: | :---------: |
-| No.1 | [120585. 머쓱이보다 키 큰 사람](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120585. 머쓱이보다 키 큰 사람) | 1 | O | 2025-07-17 |
-| No.2 | [120802. 두 수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120802. 두 수의 합) | 2 | O | 2024-10-22 |
-| No.3 | [120803. 두 수의 차](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120803. 두 수의 차) | 1 | O | 2024-10-17 |
-| No.4 | [120804. 두 수의 곱](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120804. 두 수의 곱) | 1 | O | 2024-10-17 |
-| No.5 | [120805. 몫 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120805. 몫 구하기) | 1 | O | 2024-10-18 |
-| No.6 | [120806. 두 수의 나눗셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120806. 두 수의 나눗셈) | 1 | O | 2024-10-18 |
-| No.7 | [120807. 숫자 비교하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120807. 숫자 비교하기) | 1 | O | 2024-10-18 |
-| No.8 | [120808. 분수의 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120808. 분수의 덧셈) | 2 | O | 2024-10-23 |
-| No.9 | [120809. 배열 두배 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120809. 배열 두배 만들기) | 1 | O | 2024-10-23 |
-| No.10 | [120810. 나머지 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120810. 나머지 구하기) | 1 | O | 2024-10-23 |
-| No.11 | [120811. 중앙값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120811. 중앙값 구하기) | 1 | O | 2024-10-27 |
-| No.12 | [120812. 최빈값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120812. 최빈값 구하기) | 2 | O | 2025-07-17 |
-| No.13 | [120813. 짝수는 싫어요](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120813. 짝수는 싫어요) | 1 | O | 2024-10-27 |
-| No.14 | [120814. 피자 나눠 먹기 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120814. 피자 나눠 먹기 （1）) | 1 | O | 2025-06-16 |
-| No.15 | [120815. 피자 나눠 먹기 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120815. 피자 나눠 먹기 （2）) | 2 | O | 2025-07-18 |
-| No.16 | [120816. 피자 나눠 먹기 （3）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120816. 피자 나눠 먹기 （3）) | 1 | O | 2025-07-19 |
-| No.17 | [120817. 배열의 평균값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120817. 배열의 평균값) | 1 | O | 2024-10-18 |
-| No.18 | [120818. 옷가게 할인 받기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120818. 옷가게 할인 받기) | 1 | O | 2025-07-20 |
-| No.19 | [120819. 아이스 아메리카노](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120819. 아이스 아메리카노) | 1 | O | 2025-07-20 |
-| No.20 | [120820. 나이 출력](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120820. 나이 출력) | 1 | O | 2024-10-18 |
-| No.21 | [120821. 배열 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120821. 배열 뒤집기) | 1 | O | 2024-12-11 |
-| No.22 | [120822. 문자열 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120822. 문자열 뒤집기) | 1 | O | 2025-01-01 |
-| No.23 | [120823. 직각삼각형 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120823. 직각삼각형 출력하기) | 1 | O | 2025-07-20 |
-| No.24 | [120824. 짝수 홀수 개수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120824. 짝수 홀수 개수) | 1 | O | 2024-12-09 |
-| No.25 | [120825. 문자 반복 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120825. 문자 반복 출력하기) | 1 | O | 2025-07-20 |
-| No.26 | [120826. 특정 문자 제거하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120826. 특정 문자 제거하기) | 1 | O | 2024-12-30 |
-| No.27 | [120829. 각도기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120829. 각도기) | 1 | O | 2024-10-18 |
-| No.28 | [120830. 양꼬치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120830. 양꼬치) | 2 | O | 2024-10-27 |
-| No.29 | [120831. 짝수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120831. 짝수의 합) | 1 | O | 2024-10-18 |
-| No.30 | [120833. 배열 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120833. 배열 자르기) | 1 | O | 2024-12-16 |
-| No.31 | [120834. 외계행성의 나이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120834. 외계행성의 나이) | 1 | O | 2025-07-21 |
-| No.32 | [120835. 진료 순서 정하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120835. 진료 순서 정하기) | 1 | O | 2025-07-21 |
-| No.33 | [120836. 순서쌍의 개수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120836. 순서쌍의 개수) | 1 | O | 2025-07-21 |
-| No.34 | [120841. 점의 위치 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120841. 점의 위치 구하기) | 1 | O | 2025-07-21 |
-| No.35 | [120847. 최댓값 만들기 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120847. 최댓값 만들기 （1）) | 1 | O | 2024-10-28 |
-| No.36 | [120849. 모음 제거](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120849. 모음 제거) | 1 | O | 2025-06-16 |
-| No.37 | [120854. 배열 원소의 길이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120854. 배열 원소의 길이) | 1 | O | 2024-12-13 |
-| No.38 | [120889. 삼각형의 완성조건 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120889. 삼각형의 완성조건 （1）) | 1 | O | 2025-07-21 |
-| No.39 | [120898. 편지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120898. 편지) | 1 | O | 2024-10-27 |
-| No.40 | [120903. 배열의 유사도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120903. 배열의 유사도) | 1 | O | 2024-11-07 |
-| No.41 | [120905. n의 배수 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120905. n의 배수 고르기) | 1 | O | 2025-07-21 |
-| No.42 | [120906. 자릿수 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120906. 자릿수 더하기) | 1 | O | 2025-06-16 |
-| No.43 | [120908. 문자열안에 문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120908. 문자열안에 문자열) | 1 | O | 2025-07-21 |
-| No.44 | [120909. 제곱수 판별하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120909. 제곱수 판별하기) | 1 | O | 2025-06-16 |
-| No.45 | [120910. 세균 증식](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120910. 세균 증식) | 1 | O | 2024-12-09 |
-| No.46 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O | 2024-10-21 |
-| No.47 | [181879. 길이에 따른 연산](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181879. 길이에 따른 연산) | 1 | O | 2025-07-19 |
-| No.48 | [181882. 조건에 맞게 수열 변환하기 1](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181882. 조건에 맞게 수열 변환하기 1) | 1 | O | 2025-07-19 |
-| No.49 | [181884. n보다 커질 때까지 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181884. n보다 커질 때까지 더하기) | 2 | O | 2025-07-19 |
-| No.50 | [181918. 배열 만들기 4](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181918. 배열 만들기 4) | 2 | O | 2025-07-20 |
-| No.51 | [181919. 콜라츠 수열 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181919. 콜라츠 수열 만들기) | 1 | O | 2025-07-20 |
-| No.52 | [181921. 배열 만들기 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181921. 배열 만들기 2) | 1 | O | 2025-07-20 |
-| No.53 | [181922. 수열과 구간 쿼리 4](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181922. 수열과 구간 쿼리 4) | 1 | O | 2025-07-19 |
-| No.54 | [181923. 수열과 구간 쿼리 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181923. 수열과 구간 쿼리 2) | 1 | O | 2025-07-19 |
-| No.55 | [181924. 수열과 구간 쿼리 3](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181924. 수열과 구간 쿼리 3) | 2 | O | 2025-07-18 |
-| No.56 | [181925. 수 조작하기 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181925. 수 조작하기 2) | 2 | O | 2025-07-18 |
-| No.57 | [181926. 수 조작하기 1](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181926. 수 조작하기 1) | 2 | O | 2025-07-18 |
-| No.58 | [181927. 마지막 두 원소](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181927. 마지막 두 원소) | 2 | O | 2025-07-18 |
-| No.59 | [181928. 이어 붙인 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181928. 이어 붙인 수) | 1 | O | 2025-07-18 |
-| No.60 | [181929. 원소들의 곱과 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181929. 원소들의 곱과 합) | 1 | O | 2025-07-18 |
-| No.61 | [181930. 주사위 게임 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181930. 주사위 게임 2) | 1 | O | 2025-07-18 |
-| No.62 | [181931. 등차수열의 특정한 항만 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181931. 등차수열의 특정한 항만 더하기) | 2 | O | 2025-07-18 |
-| No.63 | [181932. 코드 처리하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181932. 코드 처리하기) | 1 | O | 2025-07-18 |
-| No.64 | [181933. flag에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181933. flag에 따라 다른 값 반환하기) | 1 | O | 2024-10-25 |
-| No.65 | [181934. 조건 문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181934. 조건 문자열) | 1 | O | 2025-07-17 |
-| No.66 | [181935. 홀짝에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181935. 홀짝에 따라 다른 값 반환하기) | 1 | O | 2025-07-17 |
-| No.67 | [181936. 공배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181936. 공배수) | 1 | O | 2025-06-17 |
-| No.68 | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181937. n의 배수) | 1 | O | 2024-10-25 |
-| No.69 | [181938. 두 수의 연산값 비교하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181938. 두 수의 연산값 비교하기) | 1 | O | 2025-07-17 |
-| No.70 | [181939. 더 크게 합치기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181939. 더 크게 합치기) | 1 | O | 2025-07-17 |
-| No.71 | [181940. 문자열 곱하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181940. 문자열 곱하기) | 1 | O | 2025-07-11 |
-| No.72 | [181941. 문자 리스트를 문자열로 변환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181941. 문자 리스트를 문자열로 변환하기) | 1 | O | 2025-07-11 |
-| No.73 | [181942. 문자열 섞기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181942. 문자열 섞기) | 1 | O | 2025-07-11 |
-| No.74 | [181943. 문자열 겹쳐쓰기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181943. 문자열 겹쳐쓰기) | 1 | O | 2025-06-17 |
-| No.75 | [181944. 홀짝 구분하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181944. 홀짝 구분하기) | 1 | O | 2025-04-04 |
-| No.76 | [181945. 문자열 돌리기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181945. 문자열 돌리기) | 1 | O | 2025-04-04 |
-| No.77 | [181946. 문자열 붙여서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181946. 문자열 붙여서 출력하기) | 1 | O | 2024-10-25 |
-| No.78 | [181947. 덧셈식 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181947. 덧셈식 출력하기) | 1 | O | 2025-04-04 |
-| No.79 | [181948. 특수문자 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181948. 특수문자 출력하기) | 1 | O | 2025-03-12 |
-| No.80 | [181949. 대소문자 바꿔서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181949. 대소문자 바꿔서 출력하기) | 1 | O | 2025-03-09 |
-| No.81 | [181950. 문자열 반복해서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181950. 문자열 반복해서 출력하기) | 1 | O | 2025-03-09 |
-| No.82 | [181951. a와 b 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181951. a와 b 출력하기) | 1 | O | 2024-12-29 |
-| No.83 | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181952. 문자열 출력하기) | 1 | O | 2024-10-23 |
-| No.84 | [250132. ［PCCE 기출문제］ 2번 ／ 피타고라스의 정리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/250132. ［PCCE 기출문제］ 2번 ／ 피타고라스의 정리) | 1 | O | 2025-07-18 |
-| No.85 | [340205. ［PCCE 기출문제］ 3번 ／ 수 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340205. ［PCCE 기출문제］ 3번 ／ 수 나누기) | 1 | O | 2025-07-18 |
-| No.86 | [340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기) | 1 | O | 2025-07-18 |
+| No.1 | [120583. 중복된 숫자 개수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120583. 중복된 숫자 개수) | 1 | O | 2025-07-21 |
+| No.2 | [120585. 머쓱이보다 키 큰 사람](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120585. 머쓱이보다 키 큰 사람) | 1 | O | 2025-07-17 |
+| No.3 | [120802. 두 수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120802. 두 수의 합) | 2 | O | 2024-10-22 |
+| No.4 | [120803. 두 수의 차](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120803. 두 수의 차) | 1 | O | 2024-10-17 |
+| No.5 | [120804. 두 수의 곱](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120804. 두 수의 곱) | 1 | O | 2024-10-17 |
+| No.6 | [120805. 몫 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120805. 몫 구하기) | 1 | O | 2024-10-18 |
+| No.7 | [120806. 두 수의 나눗셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120806. 두 수의 나눗셈) | 1 | O | 2024-10-18 |
+| No.8 | [120807. 숫자 비교하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120807. 숫자 비교하기) | 1 | O | 2024-10-18 |
+| No.9 | [120808. 분수의 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120808. 분수의 덧셈) | 2 | O | 2024-10-23 |
+| No.10 | [120809. 배열 두배 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120809. 배열 두배 만들기) | 1 | O | 2024-10-23 |
+| No.11 | [120810. 나머지 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120810. 나머지 구하기) | 1 | O | 2024-10-23 |
+| No.12 | [120811. 중앙값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120811. 중앙값 구하기) | 1 | O | 2024-10-27 |
+| No.13 | [120812. 최빈값 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120812. 최빈값 구하기) | 2 | O | 2025-07-17 |
+| No.14 | [120813. 짝수는 싫어요](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120813. 짝수는 싫어요) | 1 | O | 2024-10-27 |
+| No.15 | [120814. 피자 나눠 먹기 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120814. 피자 나눠 먹기 （1）) | 1 | O | 2025-06-16 |
+| No.16 | [120815. 피자 나눠 먹기 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120815. 피자 나눠 먹기 （2）) | 2 | O | 2025-07-18 |
+| No.17 | [120816. 피자 나눠 먹기 （3）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120816. 피자 나눠 먹기 （3）) | 1 | O | 2025-07-19 |
+| No.18 | [120817. 배열의 평균값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120817. 배열의 평균값) | 1 | O | 2024-10-18 |
+| No.19 | [120818. 옷가게 할인 받기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120818. 옷가게 할인 받기) | 1 | O | 2025-07-20 |
+| No.20 | [120819. 아이스 아메리카노](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120819. 아이스 아메리카노) | 1 | O | 2025-07-20 |
+| No.21 | [120820. 나이 출력](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120820. 나이 출력) | 1 | O | 2024-10-18 |
+| No.22 | [120821. 배열 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120821. 배열 뒤집기) | 1 | O | 2024-12-11 |
+| No.23 | [120822. 문자열 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120822. 문자열 뒤집기) | 1 | O | 2025-01-01 |
+| No.24 | [120823. 직각삼각형 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120823. 직각삼각형 출력하기) | 1 | O | 2025-07-20 |
+| No.25 | [120824. 짝수 홀수 개수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120824. 짝수 홀수 개수) | 1 | O | 2024-12-09 |
+| No.26 | [120825. 문자 반복 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120825. 문자 반복 출력하기) | 1 | O | 2025-07-20 |
+| No.27 | [120826. 특정 문자 제거하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120826. 특정 문자 제거하기) | 1 | O | 2024-12-30 |
+| No.28 | [120829. 각도기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120829. 각도기) | 1 | O | 2024-10-18 |
+| No.29 | [120830. 양꼬치](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120830. 양꼬치) | 2 | O | 2024-10-27 |
+| No.30 | [120831. 짝수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120831. 짝수의 합) | 1 | O | 2024-10-18 |
+| No.31 | [120833. 배열 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120833. 배열 자르기) | 1 | O | 2024-12-16 |
+| No.32 | [120834. 외계행성의 나이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120834. 외계행성의 나이) | 1 | O | 2025-07-21 |
+| No.33 | [120835. 진료 순서 정하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120835. 진료 순서 정하기) | 1 | O | 2025-07-21 |
+| No.34 | [120836. 순서쌍의 개수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120836. 순서쌍의 개수) | 1 | O | 2025-07-21 |
+| No.35 | [120841. 점의 위치 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120841. 점의 위치 구하기) | 1 | O | 2025-07-21 |
+| No.36 | [120847. 최댓값 만들기 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120847. 최댓값 만들기 （1）) | 1 | O | 2024-10-28 |
+| No.37 | [120849. 모음 제거](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120849. 모음 제거) | 1 | O | 2025-06-16 |
+| No.38 | [120854. 배열 원소의 길이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120854. 배열 원소의 길이) | 1 | O | 2024-12-13 |
+| No.39 | [120889. 삼각형의 완성조건 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120889. 삼각형의 완성조건 （1）) | 1 | O | 2025-07-21 |
+| No.40 | [120898. 편지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120898. 편지) | 1 | O | 2024-10-27 |
+| No.41 | [120903. 배열의 유사도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120903. 배열의 유사도) | 1 | O | 2024-11-07 |
+| No.42 | [120905. n의 배수 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120905. n의 배수 고르기) | 1 | O | 2025-07-21 |
+| No.43 | [120906. 자릿수 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120906. 자릿수 더하기) | 1 | O | 2025-06-16 |
+| No.44 | [120908. 문자열안에 문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120908. 문자열안에 문자열) | 1 | O | 2025-07-21 |
+| No.45 | [120909. 제곱수 판별하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120909. 제곱수 판별하기) | 1 | O | 2025-06-16 |
+| No.46 | [120910. 세균 증식](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120910. 세균 증식) | 1 | O | 2024-12-09 |
+| No.47 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O | 2024-10-21 |
+| No.48 | [181879. 길이에 따른 연산](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181879. 길이에 따른 연산) | 1 | O | 2025-07-19 |
+| No.49 | [181882. 조건에 맞게 수열 변환하기 1](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181882. 조건에 맞게 수열 변환하기 1) | 1 | O | 2025-07-19 |
+| No.50 | [181884. n보다 커질 때까지 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181884. n보다 커질 때까지 더하기) | 2 | O | 2025-07-19 |
+| No.51 | [181918. 배열 만들기 4](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181918. 배열 만들기 4) | 2 | O | 2025-07-20 |
+| No.52 | [181919. 콜라츠 수열 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181919. 콜라츠 수열 만들기) | 1 | O | 2025-07-20 |
+| No.53 | [181921. 배열 만들기 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181921. 배열 만들기 2) | 1 | O | 2025-07-20 |
+| No.54 | [181922. 수열과 구간 쿼리 4](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181922. 수열과 구간 쿼리 4) | 1 | O | 2025-07-19 |
+| No.55 | [181923. 수열과 구간 쿼리 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181923. 수열과 구간 쿼리 2) | 1 | O | 2025-07-19 |
+| No.56 | [181924. 수열과 구간 쿼리 3](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181924. 수열과 구간 쿼리 3) | 2 | O | 2025-07-18 |
+| No.57 | [181925. 수 조작하기 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181925. 수 조작하기 2) | 2 | O | 2025-07-18 |
+| No.58 | [181926. 수 조작하기 1](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181926. 수 조작하기 1) | 2 | O | 2025-07-18 |
+| No.59 | [181927. 마지막 두 원소](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181927. 마지막 두 원소) | 2 | O | 2025-07-18 |
+| No.60 | [181928. 이어 붙인 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181928. 이어 붙인 수) | 1 | O | 2025-07-18 |
+| No.61 | [181929. 원소들의 곱과 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181929. 원소들의 곱과 합) | 1 | O | 2025-07-18 |
+| No.62 | [181930. 주사위 게임 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181930. 주사위 게임 2) | 1 | O | 2025-07-18 |
+| No.63 | [181931. 등차수열의 특정한 항만 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181931. 등차수열의 특정한 항만 더하기) | 2 | O | 2025-07-18 |
+| No.64 | [181932. 코드 처리하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181932. 코드 처리하기) | 1 | O | 2025-07-18 |
+| No.65 | [181933. flag에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181933. flag에 따라 다른 값 반환하기) | 1 | O | 2024-10-25 |
+| No.66 | [181934. 조건 문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181934. 조건 문자열) | 1 | O | 2025-07-17 |
+| No.67 | [181935. 홀짝에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181935. 홀짝에 따라 다른 값 반환하기) | 1 | O | 2025-07-17 |
+| No.68 | [181936. 공배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181936. 공배수) | 1 | O | 2025-06-17 |
+| No.69 | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181937. n의 배수) | 1 | O | 2024-10-25 |
+| No.70 | [181938. 두 수의 연산값 비교하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181938. 두 수의 연산값 비교하기) | 1 | O | 2025-07-17 |
+| No.71 | [181939. 더 크게 합치기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181939. 더 크게 합치기) | 1 | O | 2025-07-17 |
+| No.72 | [181940. 문자열 곱하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181940. 문자열 곱하기) | 1 | O | 2025-07-11 |
+| No.73 | [181941. 문자 리스트를 문자열로 변환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181941. 문자 리스트를 문자열로 변환하기) | 1 | O | 2025-07-11 |
+| No.74 | [181942. 문자열 섞기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181942. 문자열 섞기) | 1 | O | 2025-07-11 |
+| No.75 | [181943. 문자열 겹쳐쓰기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181943. 문자열 겹쳐쓰기) | 1 | O | 2025-06-17 |
+| No.76 | [181944. 홀짝 구분하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181944. 홀짝 구분하기) | 1 | O | 2025-04-04 |
+| No.77 | [181945. 문자열 돌리기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181945. 문자열 돌리기) | 1 | O | 2025-04-04 |
+| No.78 | [181946. 문자열 붙여서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181946. 문자열 붙여서 출력하기) | 1 | O | 2024-10-25 |
+| No.79 | [181947. 덧셈식 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181947. 덧셈식 출력하기) | 1 | O | 2025-04-04 |
+| No.80 | [181948. 특수문자 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181948. 특수문자 출력하기) | 1 | O | 2025-03-12 |
+| No.81 | [181949. 대소문자 바꿔서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181949. 대소문자 바꿔서 출력하기) | 1 | O | 2025-03-09 |
+| No.82 | [181950. 문자열 반복해서 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181950. 문자열 반복해서 출력하기) | 1 | O | 2025-03-09 |
+| No.83 | [181951. a와 b 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181951. a와 b 출력하기) | 1 | O | 2024-12-29 |
+| No.84 | [181952. 문자열 출력하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181952. 문자열 출력하기) | 1 | O | 2024-10-23 |
+| No.85 | [250132. ［PCCE 기출문제］ 2번 ／ 피타고라스의 정리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/250132. ［PCCE 기출문제］ 2번 ／ 피타고라스의 정리) | 1 | O | 2025-07-18 |
+| No.86 | [340205. ［PCCE 기출문제］ 3번 ／ 수 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340205. ［PCCE 기출문제］ 3번 ／ 수 나누기) | 1 | O | 2025-07-18 |
+| No.87 | [340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기) | 1 | O | 2025-07-18 |
 
 <br>
 </div>
 </details>
 
-Level 0: 총 86 문제
+Level 0: 총 87 문제
 
 ## Level 1
 <details>
