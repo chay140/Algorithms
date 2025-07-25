@@ -3,13 +3,13 @@ name: Update README
 on:
   push:
     branches:
-      - main  # Adjust if using a different default branch
+      - main
     paths-ignore:
-      - '**/*.yml'  # Exclude pushes to YAML files, including this workflow file
+      - '**/*.yml'
 
 jobs:
   update-readme:
-    if: contains(github.event.head_commit.message, '[level')  # Only run if commit message includes "[level"
+    if: contains(github.event.head_commit.message, '[level')
     runs-on: ubuntu-latest
 
     steps:
@@ -18,64 +18,58 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Count solutions and update README
+      - name: Update README.md
         run: |
-          # Define the README file path
           README_FILE="README.md"
+          echo "# 알고리즘 풀이 [![My Skills](https://skillicons.dev/icons?i=js,python&theme=dark)](https://skillicons.dev)" > $README_FILE
+          echo "> _Readme는 자동으로 생성되며 커밋 메시지에 [level 이 포함될 경우만 갱신됩니다._" >> $README_FILE
+          echo "" >> $README_FILE
 
-          total_files=$(find 프로그래머스 -type f | wc -l)
-          total_solved=$(($total_files / 2))
+          declare -A languages=( ["JavaScript"]="js" ["Python"]="py" ["SQL"]="sql" )
 
-          # Add introductory content
-          echo "# 알고리즘 풀이 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)" > $README_FILE
-          echo "> 백준허브로 연동된 자동 커밋 리포지토리 [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)." >> $README_FILE
-          echo ">" >> $README_FILE
-          echo "> _Readme는 문제 번호에 따라 자동 업데이트 합니다._" >> $README_FILE
-          echo "" >> $README_FILE  # Blank line for spacing
-          echo "# 프로그래머스 문제" >> $README_FILE
-          echo "**총 풀이 수: $total_solved**" >> $README_FILE
+          for lang in "${!languages[@]}"; do
+            ext="${languages[$lang]}"
+            echo "## $lang" >> $README_FILE
 
-          # 각 레밸
-          for level_folder in $(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d | sort); do
-            level=$(basename "$level_folder")
-            echo "" >> $README_FILE
-            echo "## Level $level" >> $README_FILE
-            echo "<details>" >> $README_FILE
-            echo "<summary>더 자세히</summary>" >> $README_FILE
-            echo "<div markdown="1">" >> $README_FILE
-            echo "" >> $README_FILE
-            echo "| No.# | 코드 (내 풀이) | 풀어본 횟수 | 해결여부 | 최근 푼 날짜 |" >> $README_FILE
-            echo "| :----: | :-------------: | :-------: | :----: | :---------: |" >> $README_FILE
-            
-            # 문제별 데이터
-            problem_count=1
-            level_folder="프로그래머스/$level"
-            for problem in $(ls "$level_folder"); do
-              problem_path="$level_folder/$problem"
-              problem_name=$(basename "$problem")
-              commit_count=$(git rev-list --count HEAD -- "$problem_path")
-              latest_date=$(git log -1 --date=short --pretty=format:"%ad" -- "$problem_path")
-              problem_link="https://github.com/chay140/Algorithms/tree/main/$problem_path"
+            # 각 레벨 탐색 (0, 1, 2...)
+            for level_dir in $(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d | sort); do
+              level=$(basename "$level_dir")
+              found=false
+              table="| No.# | 문제 번호 | 커밋 수 | 해결 여부 | 최근 푼 날짜 |\n| :--: | :--------: | :------: | :------: | :---------: |"
 
-              # 리드미에 문제 추가
-              echo "| No.$problem_count | [$problem_name]($problem_link) | $commit_count | O | $latest_date |" >> $README_FILE
+              count=1
 
-              # Increment the problem counter
-              problem_count=$((problem_count + 1))
+              # 문제 디렉토리 순회
+              for problem_dir in $(find "$level_dir" -mindepth 1 -maxdepth 1 -type d | sort); do
+                file_path=$(find "$problem_dir" -type f -name "*.$ext" | head -n 1)
+                if [ -n "$file_path" ]; then
+                  found=true
+                  problem_id=$(basename "$problem_dir")
+                  commit_count=$(git rev-list --count HEAD -- "$file_path")
+                  latest_date=$(git log -1 --date=short --pretty=format:"%ad" -- "$file_path")
+                  link="https://github.com/${{ github.repository }}/tree/main/$problem_dir"
+
+                  table+="\n| $count | [$problem_id]($link) | $commit_count | O | $latest_date |"
+                  count=$((count + 1))
+                fi
+              done
+
+              if $found; then
+                echo "" >> $README_FILE
+                echo "### Level $level" >> $README_FILE
+                echo -e "$table" >> $README_FILE
+                echo "" >> $README_FILE
+              fi
             done
+
             echo "" >> $README_FILE
-            echo "<br>" >> $README_FILE
-            echo "</div>" >> $README_FILE
-            echo "</details>" >> $README_FILE
-            echo "" >> $README_FILE
-            echo "Level $level: 총 $((problem_count - 1)) 문제" >> $README_FILE
           done
 
-          # Configure Git and commit the README update
+          # Git commit & push
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add $README_FILE
-          git commit -m "Auto-update README with latest problem stats"
+          git commit -m "Auto-update README with latest problem stats" || echo "No changes to commit"
       
       - name: Push changes
         run: git push
