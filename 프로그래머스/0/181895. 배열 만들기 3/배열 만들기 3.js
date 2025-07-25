@@ -1,5 +1,5 @@
 function solution(arr, intervals) {
-    const [first_arr, sec_arr] = intervals;
+    const [[a, b], [c, d]] = intervals;
     
-    return [...arr.slice(first_arr[0], first_arr[1] + 1), ...arr.slice(sec_arr[0], sec_arr[1] + 1)];
+    return [...arr.slice(a, b + 1), ...arr.slice(c, d + 1)];
 }
