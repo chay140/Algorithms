@@ -21,7 +21,7 @@ jobs:
       - name: Update README.md
         run: |
           README_FILE="README.md"
-          echo "# 알고리즘 풀이 [![My Skills](https://skillicons.dev/icons?i=js,python,sql&theme=dark)](https://skillicons.dev)" > $README_FILE
+          echo "# 알고리즘 풀이 [![My Skills](https://skillicons.dev/icons?i=js,python,my .sql&theme=dark)](https://skillicons.dev)" > $README_FILE
           echo "> _Readme는 자동으로 생성되며 커밋 메시지에 [level 이 포함될 경우만 갱신됩니다._" >> $README_FILE
           echo "" >> $README_FILE
 
