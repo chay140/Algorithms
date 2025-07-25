@@ -21,7 +21,7 @@ jobs:
       - name: Update README.md
         run: |
           README_FILE="README.md"
-          echo "# 알고리즘 풀이 [![My Skills](https://skillicons.dev/icons?i=js,python&theme=dark)](https://skillicons.dev)" > $README_FILE
+          echo "# 알고리즘 풀이 [![My Skills](https://skillicons.dev/icons?i=js,python,sql&theme=dark)](https://skillicons.dev)" > $README_FILE
           echo "> _Readme는 자동으로 생성되며 커밋 메시지에 [level 이 포함될 경우만 갱신됩니다._" >> $README_FILE
           echo "" >> $README_FILE
 
@@ -35,7 +35,7 @@ jobs:
             for level_dir in $(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d | sort); do
               level=$(basename "$level_dir")
               found=false
-              table="| No.# | 문제 번호 | 커밋 수 | 해결 여부 | 최근 푼 날짜 |\n| :--: | :--------: | :------: | :------: | :---------: |"
+              table="| No.# | 문제 번호(풀이) | 푼 횟수 | 해결 여부 | 최근 푼 날짜 |\n| :--: | :--------: | :------: | :------: | :---------: |"
 
               count=1
 
@@ -57,7 +57,15 @@ jobs:
               if $found; then
                 echo "" >> $README_FILE
                 echo "### Level $level" >> $README_FILE
+                echo "<details>" >> $README_FILE
+                echo "<summary>더 자세히</summary>" >> $README_FILE
+                echo "<div markdown="1">" >> $README_FILE
+                echo "" >> $README_FILE
                 echo -e "$table" >> $README_FILE
+                echo "" >> $README_FILE
+                echo "<br>" >> $README_FILE
+                echo "</div>" >> $README_FILE
+                echo "</details>" >> $README_FILE
                 echo "" >> $README_FILE
               fi
             done
