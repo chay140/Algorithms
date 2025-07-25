@@ -1,9 +1,7 @@
-function solution(num_list) {
-    let answer = -1;
-    
+function solution(num_list) {    
     for (let i = 0; i < num_list.length; i++) {
         if (num_list[i] < 0) return i;
     }
     
-    return answer;
+    return -1;
 }
