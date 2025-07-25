@@ -209,7 +209,7 @@ Level 0: 총 117 문제
 | No.63 | [42862. 체육복](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42862. 체육복) | 1 | O | 2024-11-15 |
 | No.64 | [42889. 실패율](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/42889. 실패율) | 2 | O | 2025-07-21 |
 | No.65 | [64061. 크레인 인형뽑기 게임](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/64061. 크레인 인형뽑기 게임) | 1 | O | 2025-07-25 |
-| No.66 | [67256. ［카카오 인턴］ 키패드 누르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/67256. ［카카오 인턴］ 키패드 누르기) | 1 | O | 2025-07-25 |
+| No.66 | [67256. ［카카오 인턴］ 키패드 누르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/67256. ［카카오 인턴］ 키패드 누르기) | 2 | O | 2025-07-25 |
 | No.67 | [68644. 두 개 뽑아서 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68644. 두 개 뽑아서 더하기) | 1 | O | 2024-11-07 |
 | No.68 | [68935. 3진법 뒤집기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/68935. 3진법 뒤집기) | 1 | O | 2024-10-29 |
 | No.69 | [70128. 내적](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/70128. 내적) | 1 | O | 2024-10-22 |
