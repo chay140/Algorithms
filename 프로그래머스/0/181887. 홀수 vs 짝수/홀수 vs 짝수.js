@@ -1,6 +1,10 @@
 function solution(num_list) {
-    const odd_sum = num_list.filter((_, idx) => idx % 2 === 1).reduce((acc, curr) => acc + curr, 0);
-    const even_sum = num_list.filter((_, idx) => idx % 2 === 0).reduce((acc, curr) => acc + curr, 0);
+    let odds = 0;
+    let evens = 0;
+    num_list.forEach((val, idx) => {
+        if (idx % 2 === 0) evens += val;
+        else odds += val;
+    });
 
-    return Math.max(odd_sum, even_sum);
+    return Math.max(odds, evens);
 }
