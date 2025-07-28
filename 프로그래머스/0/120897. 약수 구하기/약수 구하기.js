@@ -9,7 +9,6 @@ function solution(n) {
             answer.splice(pointer++, 0, i);
             answer.splice(pointer, 0, ~~(n / i));
         }
-        console.log(answer, pointer)
     }
     return answer;
 }
