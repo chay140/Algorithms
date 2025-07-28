@@ -89,7 +89,7 @@
 | 55 | [120892. 암호 해독](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120892. 암호 해독) | 1 | O | 2025-07-29 |
 | 56 | [120893. 대문자와 소문자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120893. 대문자와 소문자) | 1 | O | 2025-07-29 |
 | 57 | [120895. 인덱스 바꾸기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120895. 인덱스 바꾸기) | 1 | O | 2025-07-29 |
-| 58 | [120897. 약수 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120897. 약수 구하기) | 1 | O | 2025-07-29 |
+| 58 | [120897. 약수 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120897. 약수 구하기) | 2 | O | 2025-07-29 |
 | 59 | [120898. 편지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120898. 편지) | 1 | O | 2024-10-27 |
 | 60 | [120903. 배열의 유사도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120903. 배열의 유사도) | 1 | O | 2024-11-07 |
 | 61 | [120905. n의 배수 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120905. n의 배수 고르기) | 1 | O | 2025-07-21 |
