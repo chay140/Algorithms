@@ -2,7 +2,7 @@ function solution(quiz) {
     const answer = [];
     
     for (const q of quiz) {
-        const [x, op, y, eq, z] = q.split(" ");
+        const [x, op, y, _, z] = q.split(" ");
         
         const correct = op === "+" ? Number(x) + Number(y) : Number(x) - Number(y);
         
