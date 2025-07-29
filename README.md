@@ -97,7 +97,7 @@
 | 63 | [120898. 편지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120898. 편지) | 1 | O | 2024-10-27 |
 | 64 | [120899. 가장 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120899. 가장 큰 수 찾기) | 1 | O | 2025-07-29 |
 | 65 | [120903. 배열의 유사도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120903. 배열의 유사도) | 1 | O | 2024-11-07 |
-| 66 | [120904. 숫자 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120904. 숫자 찾기) | 1 | O | 2025-07-29 |
+| 66 | [120904. 숫자 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120904. 숫자 찾기) | 2 | O | 2025-07-29 |
 | 67 | [120905. n의 배수 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120905. n의 배수 고르기) | 1 | O | 2025-07-21 |
 | 68 | [120906. 자릿수 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120906. 자릿수 더하기) | 1 | O | 2025-06-16 |
 | 69 | [120908. 문자열안에 문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120908. 문자열안에 문자열) | 1 | O | 2025-07-21 |
