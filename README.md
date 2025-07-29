@@ -102,7 +102,7 @@
 | 68 | [120904. 숫자 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120904. 숫자 찾기) | 2 | O | 2025-07-29 |
 | 69 | [120905. n의 배수 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120905. n의 배수 고르기) | 1 | O | 2025-07-21 |
 | 70 | [120906. 자릿수 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120906. 자릿수 더하기) | 1 | O | 2025-06-16 |
-| 71 | [120907. OX퀴즈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120907. OX퀴즈) | 1 | O | 2025-07-30 |
+| 71 | [120907. OX퀴즈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120907. OX퀴즈) | 2 | O | 2025-07-30 |
 | 72 | [120908. 문자열안에 문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120908. 문자열안에 문자열) | 1 | O | 2025-07-21 |
 | 73 | [120909. 제곱수 판별하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120909. 제곱수 판별하기) | 1 | O | 2025-06-16 |
 | 74 | [120910. 세균 증식](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120910. 세균 증식) | 1 | O | 2024-12-09 |
