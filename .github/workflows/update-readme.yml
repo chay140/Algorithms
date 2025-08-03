@@ -22,7 +22,7 @@ jobs:
         run: |
           README_FILE="README.md"
           echo "# 알고리즘 풀이 [![My Skills](https://skillicons.dev/icons?i=js,python,mysql&theme=dark)](https://skillicons.dev)" > $README_FILE
-          echo "> _Readme는 자동으로 생성되며 커밋 메시지에 [level 이 포함될 경우만 갱신됩니다._" >> $README_FILE
+          echo "> _Readme는 자동으로 갱신되며 현재는 프로그래머스 문제만 정리하고 있습니다._" >> $README_FILE
           echo "" >> $README_FILE
 
           declare -A languages=( ["JavaScript"]="js" ["Python"]="py" ["SQL"]="sql" )
