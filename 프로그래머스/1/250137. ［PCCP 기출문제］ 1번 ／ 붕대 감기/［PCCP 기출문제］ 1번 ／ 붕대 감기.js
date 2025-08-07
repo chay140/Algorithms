@@ -24,6 +24,7 @@ function solution(bandage, health, attacks) {
             }
         }
         
+        // 체력이 0이하인 순간 -1 반환
         if (health <= 0) return -1;
     }
     
