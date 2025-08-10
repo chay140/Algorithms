@@ -10,5 +10,5 @@ function solution(s){
             stack.pop();
         }
     }
-    return stack.length === 0 ? true : false;
+    return stack.length === 0;
 }
