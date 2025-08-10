@@ -322,7 +322,7 @@
 
 | No.# | 문제 번호(풀이) | 푼 횟수 | 해결 여부 | 최근 푼 날짜 |
 | :--: | :--------: | :------: | :------: | :---------: |
-| 1 | [12909. 올바른 괄호](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12909. 올바른 괄호) | 1 | O | 2024-11-04 |
+| 1 | [12909. 올바른 괄호](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12909. 올바른 괄호) | 2 | O | 2025-08-11 |
 | 2 | [12911. 다음 큰 숫자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12911. 다음 큰 숫자) | 1 | O | 2024-12-03 |
 | 3 | [12914. 멀리 뛰기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12914. 멀리 뛰기) | 1 | O | 2024-12-25 |
 | 4 | [12924. 숫자의 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12924. 숫자의 표현) | 2 | O | 2024-11-18 |
