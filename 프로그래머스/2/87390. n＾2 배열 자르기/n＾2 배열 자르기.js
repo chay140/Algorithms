@@ -1,11 +1,8 @@
 function solution(n, left, right) {
     const answer = [];
     
-    for (let i = left; i <= right; i++) {
-        const quotient = ~~(i / n);
-        const remainder = i % n;
-        
-        answer.push(Math.max(quotient, remainder) + 1);
+    for (let i = left; i <= right; i++) {        
+        answer.push(Math.max(~~(i / n), i % n) + 1);
     }
     
     return answer;
