@@ -90,7 +90,7 @@
 | 56 | [120864. 숨어있는 숫자의 덧셈 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120864. 숨어있는 숫자의 덧셈 （2）) | 1 | O | 2025-08-03 |
 | 57 | [120868. 삼각형의 완성조건 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120868. 삼각형의 완성조건 （2）) | 1 | O | 2025-08-07 |
 | 58 | [120869. 외계어 사전](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120869. 외계어 사전) | 1 | O | 2025-08-07 |
-| 59 | [120883. 로그인 성공？](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120883. 로그인 성공？) | 1 | O | 2025-08-13 |
+| 59 | [120883. 로그인 성공？](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120883. 로그인 성공？) | 2 | O | 2025-08-13 |
 | 60 | [120885. 이진수 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120885. 이진수 더하기) | 1 | O | 2025-08-03 |
 | 61 | [120886. A로 B 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120886. A로 B 만들기) | 1 | O | 2025-07-30 |
 | 62 | [120887. k의 개수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120887. k의 개수) | 1 | O | 2025-07-30 |
