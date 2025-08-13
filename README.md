@@ -121,7 +121,7 @@
 | 87 | [120911. 문자열 정렬하기 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120911. 문자열 정렬하기 （2）) | 1 | O | 2025-07-29 |
 | 88 | [120912. 7의 개수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120912. 7의 개수) | 1 | O | 2025-07-31 |
 | 89 | [120913. 잘라서 배열로 저장하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120913. 잘라서 배열로 저장하기) | 1 | O | 2025-07-31 |
-| 90 | [120921. 문자열 밀기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120921. 문자열 밀기) | 1 | O | 2025-08-13 |
+| 90 | [120921. 문자열 밀기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120921. 문자열 밀기) | 2 | O | 2025-08-13 |
 | 91 | [120922. 종이 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120922. 종이 자르기) | 1 | O | 2025-08-13 |
 | 92 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O | 2024-10-21 |
 | 93 | [181834. l로 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181834. l로 만들기) | 1 | O | 2025-08-08 |
