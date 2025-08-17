@@ -1,6 +1,6 @@
 function solution(priorities, location) {
     let answer = 0;
-    let wait_queue = Array(priorities.length).fill().map((_, i) => i);
+    let wait_queue = new Array(priorities.length).fill().map((_, i) => i);
     
     while (wait_queue.length > 0) {
         const process_id = wait_queue.shift();
