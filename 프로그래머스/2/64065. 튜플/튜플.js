@@ -5,7 +5,8 @@ function solution(s) {
     s = s.slice(2, s.length - 2).split("},{");
     
     s.forEach(element => {
-        map.set(element.split(",").length, element.split(",").map(string => Number(string)));
+        const temp = element.split(",").map(string => Number(string));
+        map.set(temp.length, temp);
     })
     
     for (let i = 1; i <= map.size; i++) {
