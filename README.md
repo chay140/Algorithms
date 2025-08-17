@@ -364,7 +364,7 @@
 | 25 | [42583. 다리를 지나는 트럭](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42583. 다리를 지나는 트럭) | 1 | O | 2025-08-13 |
 | 26 | [42584. 주식가격](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42584. 주식가격) | 1 | O | 2025-08-18 |
 | 27 | [42586. 기능개발](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42586. 기능개발) | 1 | O | 2025-05-09 |
-| 28 | [42587. 프로세스](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42587. 프로세스) | 1 | O | 2025-06-01 |
+| 28 | [42587. 프로세스](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42587. 프로세스) | 2 | O | 2025-08-18 |
 | 29 | [42626. 더 맵게](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42626. 더 맵게) | 1 | O | 2025-07-16 |
 | 30 | [42746. 가장 큰 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42746. 가장 큰 수) | 1 | O | 2025-04-18 |
 | 31 | [42747. H－Index](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42747. H－Index) | 1 | O | 2025-01-03 |
