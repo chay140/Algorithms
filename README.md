@@ -139,7 +139,7 @@
 | 105 | [181844. 배열의 원소 삭제하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181844. 배열의 원소 삭제하기) | 1 | O | 2025-08-08 |
 | 106 | [181847. 0 떼기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181847. 0 떼기) | 2 | O | 2025-08-08 |
 | 107 | [181850. 정수 부분](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181850. 정수 부분) | 1 | O | 2025-08-08 |
-| 108 | [181862. 세 개의 구분자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181862. 세 개의 구분자) | 1 | O | 2025-08-18 |
+| 108 | [181862. 세 개의 구분자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181862. 세 개의 구분자) | 2 | O | 2025-08-18 |
 | 109 | [181863. rny＿string](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181863. rny＿string) | 1 | O | 2025-08-03 |
 | 110 | [181864. 문자열 바꿔서 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181864. 문자열 바꿔서 찾기) | 1 | O | 2025-08-03 |
 | 111 | [181865. 간단한 식 계산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181865. 간단한 식 계산하기) | 1 | O | 2025-08-03 |
