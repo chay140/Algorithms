@@ -1,7 +1,5 @@
 function solution(myStr) {
-    const answer = myStr.split(/[abc]+/).filter(str => str !== "");
+    const answer = myStr.split(/[a|b|c]/).filter(str => str);
     
-    if (answer.length === 0) return ["EMPTY"];
-    
-    return answer;
+    return answer.length ? answer : ["EMPTY"];
 }
