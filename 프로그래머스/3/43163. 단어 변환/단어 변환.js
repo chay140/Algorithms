@@ -30,5 +30,5 @@ function solution(begin, target, words) {
         }
     }
     
-    return visited[target] ? visited[target] : 0;
+    return visited[target] || 0;
 }
