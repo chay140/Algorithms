@@ -396,13 +396,14 @@
 | No.# | 문제 번호(풀이) | 푼 횟수 | 해결 여부 | 최근 푼 날짜 |
 | :--: | :--------: | :------: | :------: | :---------: |
 | 1 | [42579. 베스트앨범](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42579. 베스트앨범) | 1 | O | 2025-04-19 |
-| 2 | [42892. 길 찾기 게임](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42892. 길 찾기 게임) | 1 | O | 2025-04-20 |
-| 3 | [42895. N으로 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42895. N으로 표현) | 1 | O | 2025-04-19 |
-| 4 | [42898. 등굣길](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42898. 등굣길) | 2 | O | 2025-04-19 |
-| 5 | [43105. 정수 삼각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43105. 정수 삼각형) | 1 | O | 2024-12-08 |
-| 6 | [43162. 네트워크](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43162. 네트워크) | 2 | O | 2025-04-20 |
-| 7 | [43163. 단어 변환](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43163. 단어 변환) | 1 | O | 2025-07-04 |
-| 8 | [92343. 양과 늑대](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/92343. 양과 늑대) | 1 | O | 2025-04-20 |
+| 2 | [42884. 단속카메라](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42884. 단속카메라) | 1 | O | 2025-08-18 |
+| 3 | [42892. 길 찾기 게임](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42892. 길 찾기 게임) | 1 | O | 2025-04-20 |
+| 4 | [42895. N으로 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42895. N으로 표현) | 1 | O | 2025-04-19 |
+| 5 | [42898. 등굣길](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42898. 등굣길) | 2 | O | 2025-04-19 |
+| 6 | [43105. 정수 삼각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43105. 정수 삼각형) | 1 | O | 2024-12-08 |
+| 7 | [43162. 네트워크](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43162. 네트워크) | 2 | O | 2025-04-20 |
+| 8 | [43163. 단어 변환](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43163. 단어 변환) | 1 | O | 2025-07-04 |
+| 9 | [92343. 양과 늑대](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/92343. 양과 늑대) | 1 | O | 2025-04-20 |
 
 <br>
 </div>
