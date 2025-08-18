@@ -372,7 +372,7 @@
 | 33 | [42839. 소수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42839. 소수 찾기) | 1 | O | 2025-04-19 |
 | 34 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
 | 35 | [42885. 구명보트](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42885. 구명보트) | 1 | O | 2025-03-01 |
-| 36 | [43165. 타겟 넘버](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/43165. 타겟 넘버) | 3 | O | 2025-07-09 |
+| 36 | [43165. 타겟 넘버](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/43165. 타겟 넘버) | 4 | O | 2025-08-18 |
 | 37 | [64065. 튜플](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/64065. 튜플) | 3 | O | 2025-08-17 |
 | 38 | [68645. 삼각 달팽이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68645. 삼각 달팽이) | 1 | O | 2025-04-03 |
 | 39 | [68936. 쿼드압축 후 개수 세기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68936. 쿼드압축 후 개수 세기) | 1 | O | 2025-04-03 |
