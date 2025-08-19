@@ -141,7 +141,7 @@
 | 107 | [181844. 배열의 원소 삭제하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181844. 배열의 원소 삭제하기) | 1 | O | 2025-08-08 |
 | 108 | [181847. 0 떼기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181847. 0 떼기) | 2 | O | 2025-08-08 |
 | 109 | [181850. 정수 부분](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181850. 정수 부분) | 1 | O | 2025-08-08 |
-| 110 | [181851. 전국 대회 선발 고사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181851. 전국 대회 선발 고사) | 1 | O | 2025-08-20 |
+| 110 | [181851. 전국 대회 선발 고사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181851. 전국 대회 선발 고사) | 2 | O | 2025-08-20 |
 | 111 | [181852. 뒤에서 5등 위로](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181852. 뒤에서 5등 위로) | 1 | O | 2025-08-19 |
 | 112 | [181853. 뒤에서 5등까지](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181853. 뒤에서 5등까지) | 1 | O | 2025-08-19 |
 | 113 | [181854. 배열의 길이에 따라 다른 연산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181854. 배열의 길이에 따라 다른 연산하기) | 2 | O | 2025-08-19 |
