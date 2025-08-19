@@ -139,7 +139,7 @@
 | 105 | [181844. 배열의 원소 삭제하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181844. 배열의 원소 삭제하기) | 1 | O | 2025-08-08 |
 | 106 | [181847. 0 떼기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181847. 0 떼기) | 2 | O | 2025-08-08 |
 | 107 | [181850. 정수 부분](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181850. 정수 부분) | 1 | O | 2025-08-08 |
-| 108 | [181854. 배열의 길이에 따라 다른 연산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181854. 배열의 길이에 따라 다른 연산하기) | 1 | O | 2025-08-19 |
+| 108 | [181854. 배열의 길이에 따라 다른 연산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181854. 배열의 길이에 따라 다른 연산하기) | 2 | O | 2025-08-19 |
 | 109 | [181855. 문자열 묶기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181855. 문자열 묶기) | 1 | O | 2025-08-19 |
 | 110 | [181856. 배열 비교하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181856. 배열 비교하기) | 1 | O | 2025-08-19 |
 | 111 | [181857. 배열의 길이를 2의 거듭제곱으로 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181857. 배열의 길이를 2의 거듭제곱으로 만들기) | 1 | O | 2025-08-19 |
