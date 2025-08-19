@@ -366,31 +366,32 @@
 | 18 | [132265. 롤케이크 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/132265. 롤케이크 자르기) | 1 | O | 2025-08-18 |
 | 19 | [138476. 귤 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/138476. 귤 고르기) | 1 | O | 2024-12-26 |
 | 20 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 2 | O | 2024-12-27 |
-| 21 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
-| 22 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
-| 23 | [1844. 게임 맵 최단거리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/1844. 게임 맵 최단거리) | 1 | O | 2025-04-20 |
-| 24 | [42577. 전화번호 목록](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42577. 전화번호 목록) | 3 | O | 2025-07-04 |
-| 25 | [42578. 의상](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42578. 의상) | 1 | O | 2025-04-19 |
-| 26 | [42583. 다리를 지나는 트럭](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42583. 다리를 지나는 트럭) | 1 | O | 2025-08-13 |
-| 27 | [42584. 주식가격](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42584. 주식가격) | 1 | O | 2025-08-18 |
-| 28 | [42586. 기능개발](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42586. 기능개발) | 1 | O | 2025-05-09 |
-| 29 | [42587. 프로세스](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42587. 프로세스) | 2 | O | 2025-08-18 |
-| 30 | [42626. 더 맵게](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42626. 더 맵게) | 1 | O | 2025-07-16 |
-| 31 | [42746. 가장 큰 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42746. 가장 큰 수) | 1 | O | 2025-04-18 |
-| 32 | [42747. H－Index](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42747. H－Index) | 1 | O | 2025-01-03 |
-| 33 | [42839. 소수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42839. 소수 찾기) | 1 | O | 2025-04-19 |
-| 34 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
-| 35 | [42885. 구명보트](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42885. 구명보트) | 1 | O | 2025-03-01 |
-| 36 | [43165. 타겟 넘버](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/43165. 타겟 넘버) | 4 | O | 2025-08-18 |
-| 37 | [64065. 튜플](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/64065. 튜플) | 3 | O | 2025-08-17 |
-| 38 | [68645. 삼각 달팽이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68645. 삼각 달팽이) | 1 | O | 2025-04-03 |
-| 39 | [68936. 쿼드압축 후 개수 세기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68936. 쿼드압축 후 개수 세기) | 1 | O | 2025-04-03 |
-| 40 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
-| 41 | [76502. 괄호 회전하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/76502. 괄호 회전하기) | 1 | O | 2024-12-29 |
-| 42 | [84512. 모음 사전](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/84512. 모음 사전) | 1 | O | 2025-08-10 |
-| 43 | [86971. 전력망을 둘로 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/86971. 전력망을 둘로 나누기) | 1 | O | 2025-04-07 |
-| 44 | [87390. n＾2 배열 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87390. n＾2 배열 자르기) | 2 | O | 2025-08-12 |
-| 45 | [87946. 피로도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87946. 피로도) | 1 | O | 2025-08-10 |
+| 21 | [17680. ［1차］ 캐시](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/17680. ［1차］ 캐시) | 1 | O | 2025-08-19 |
+| 22 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
+| 23 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
+| 24 | [1844. 게임 맵 최단거리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/1844. 게임 맵 최단거리) | 1 | O | 2025-04-20 |
+| 25 | [42577. 전화번호 목록](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42577. 전화번호 목록) | 3 | O | 2025-07-04 |
+| 26 | [42578. 의상](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42578. 의상) | 1 | O | 2025-04-19 |
+| 27 | [42583. 다리를 지나는 트럭](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42583. 다리를 지나는 트럭) | 1 | O | 2025-08-13 |
+| 28 | [42584. 주식가격](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42584. 주식가격) | 1 | O | 2025-08-18 |
+| 29 | [42586. 기능개발](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42586. 기능개발) | 1 | O | 2025-05-09 |
+| 30 | [42587. 프로세스](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42587. 프로세스) | 2 | O | 2025-08-18 |
+| 31 | [42626. 더 맵게](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42626. 더 맵게) | 1 | O | 2025-07-16 |
+| 32 | [42746. 가장 큰 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42746. 가장 큰 수) | 1 | O | 2025-04-18 |
+| 33 | [42747. H－Index](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42747. H－Index) | 1 | O | 2025-01-03 |
+| 34 | [42839. 소수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42839. 소수 찾기) | 1 | O | 2025-04-19 |
+| 35 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
+| 36 | [42885. 구명보트](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42885. 구명보트) | 1 | O | 2025-03-01 |
+| 37 | [43165. 타겟 넘버](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/43165. 타겟 넘버) | 4 | O | 2025-08-18 |
+| 38 | [64065. 튜플](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/64065. 튜플) | 3 | O | 2025-08-17 |
+| 39 | [68645. 삼각 달팽이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68645. 삼각 달팽이) | 1 | O | 2025-04-03 |
+| 40 | [68936. 쿼드압축 후 개수 세기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68936. 쿼드압축 후 개수 세기) | 1 | O | 2025-04-03 |
+| 41 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
+| 42 | [76502. 괄호 회전하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/76502. 괄호 회전하기) | 1 | O | 2024-12-29 |
+| 43 | [84512. 모음 사전](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/84512. 모음 사전) | 1 | O | 2025-08-10 |
+| 44 | [86971. 전력망을 둘로 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/86971. 전력망을 둘로 나누기) | 1 | O | 2025-04-07 |
+| 45 | [87390. n＾2 배열 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87390. n＾2 배열 자르기) | 2 | O | 2025-08-12 |
+| 46 | [87946. 피로도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87946. 피로도) | 1 | O | 2025-08-10 |
 
 <br>
 </div>
