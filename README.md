@@ -366,7 +366,7 @@
 | 18 | [132265. 롤케이크 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/132265. 롤케이크 자르기) | 1 | O | 2025-08-18 |
 | 19 | [138476. 귤 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/138476. 귤 고르기) | 1 | O | 2024-12-26 |
 | 20 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 2 | O | 2024-12-27 |
-| 21 | [17680. ［1차］ 캐시](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/17680. ［1차］ 캐시) | 1 | O | 2025-08-19 |
+| 21 | [17680. ［1차］ 캐시](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/17680. ［1차］ 캐시) | 2 | O | 2025-08-19 |
 | 22 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
 | 23 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
 | 24 | [1844. 게임 맵 최단거리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/1844. 게임 맵 최단거리) | 1 | O | 2025-04-20 |
