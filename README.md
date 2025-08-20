@@ -373,7 +373,7 @@
 | 20 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 2 | O | 2024-12-27 |
 | 21 | [17677. ［1차］ 뉴스 클러스터링](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/17677. ［1차］ 뉴스 클러스터링) | 1 | O | 2025-08-19 |
 | 22 | [17680. ［1차］ 캐시](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/17680. ［1차］ 캐시) | 2 | O | 2025-08-19 |
-| 23 | [17687. ［3차］ n진수 게임](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/17687. ［3차］ n진수 게임) | 1 | O | 2025-08-20 |
+| 23 | [17687. ［3차］ n진수 게임](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/17687. ［3차］ n진수 게임) | 2 | O | 2025-08-20 |
 | 24 | [176962. 과제 진행하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/176962. 과제 진행하기) | 2 | O | 2024-10-25 |
 | 25 | [178870. 연속된 부분 수열의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/178870. 연속된 부분 수열의 합) | 1 | O | 2024-10-31 |
 | 26 | [1844. 게임 맵 최단거리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/1844. 게임 맵 최단거리) | 1 | O | 2025-04-20 |
