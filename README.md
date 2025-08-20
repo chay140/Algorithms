@@ -138,7 +138,7 @@
 | 104 | [181840. 정수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181840. 정수 찾기) | 1 | O | 2025-08-08 |
 | 105 | [181841. 꼬리 문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181841. 꼬리 문자열) | 1 | O | 2025-08-08 |
 | 106 | [181842. 부분 문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181842. 부분 문자열) | 1 | O | 2025-08-09 |
-| 107 | [181843. 부분 문자열인지 확인하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181843. 부분 문자열인지 확인하기) | 1 | O | 2025-08-21 |
+| 107 | [181843. 부분 문자열인지 확인하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181843. 부분 문자열인지 확인하기) | 2 | O | 2025-08-21 |
 | 108 | [181844. 배열의 원소 삭제하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181844. 배열의 원소 삭제하기) | 1 | O | 2025-08-08 |
 | 109 | [181845. 문자열로 변환](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181845. 문자열로 변환) | 1 | O | 2025-08-21 |
 | 110 | [181846. 두 수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181846. 두 수의 합) | 1 | O | 2025-08-20 |
