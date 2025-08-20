@@ -137,7 +137,7 @@
 | 103 | [181833. 특별한 이차원 배열 1](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181833. 특별한 이차원 배열 1) | 1 | O | 2025-08-21 |
 | 104 | [181834. l로 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181834. l로 만들기) | 1 | O | 2025-08-08 |
 | 105 | [181835. 조건에 맞게 수열 변환하기 3](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181835. 조건에 맞게 수열 변환하기 3) | 1 | O | 2025-08-04 |
-| 106 | [181837. 커피 심부름](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181837. 커피 심부름) | 1 | O | 2025-08-21 |
+| 106 | [181837. 커피 심부름](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181837. 커피 심부름) | 2 | O | 2025-08-21 |
 | 107 | [181838. 날짜 비교하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181838. 날짜 비교하기) | 1 | O | 2025-08-21 |
 | 108 | [181839. 주사위 게임 1](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181839. 주사위 게임 1) | 1 | O | 2025-08-21 |
 | 109 | [181840. 정수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181840. 정수 찾기) | 1 | O | 2025-08-08 |
