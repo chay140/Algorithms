@@ -1,5 +1,4 @@
 function solution(n, t, m, p) {
-    // 1차 시도 (시간 초과)
     // 구해야할 전체 개수 m * t
     let baseStrings = ""
     
