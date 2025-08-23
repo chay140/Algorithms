@@ -21,5 +21,6 @@ function solution(triangle) {
         // 연산한 값 계산
         dp_triangle.push(each_row)
     }
+    
     return Math.max(...dp_triangle[dp_triangle.length -1]);
 }
