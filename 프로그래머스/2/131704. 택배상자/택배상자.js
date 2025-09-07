@@ -1,16 +1,24 @@
 function solution(order) {
-    let truck = 0;
-    let main_trail_index = 1;
-
-    const sub_trail = [];
-
-    for(const o of order) {
-        while(main_trail_index <= o) {
-            sub_trail.push(main_trail_index++);
+    let total = 0;
+    let box = 1;
+    const stack = [];
+    while (true) {
+        if (order.length === total) break;
+        // 현재 박스 번호가 실어져야 할때
+        if (order[total] === box) {
+            total++;
+            box++;
+        } else if (stack[stack.length - 1] === order[total]){
+            stack.pop();
+            total++;
+        } else if (stack[stack.length - 1] !== order[total]) {
+            if (order[total] < stack[stack.length - 1]) {
+                break;
+            }
+            stack.push(box);
+            box++;
         }
-        if(sub_trail.at(-1) !== o) break;
-        sub_trail.pop();
-        truck++;
     }
-    return truck;
+
+    return total;
 }
