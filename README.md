@@ -379,7 +379,7 @@
 | 16 | [12985. 예상 대진표](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12985. 예상 대진표) | 1 | O | 2024-12-24 |
 | 17 | [131127. 할인 행사](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/131127. 할인 행사) | 1 | O | 2025-08-07 |
 | 18 | [131701. 연속 부분 수열 합의 개수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/131701. 연속 부분 수열 합의 개수) | 1 | O | 2024-12-31 |
-| 19 | [131704. 택배상자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/131704. 택배상자) | 1 | O | 2025-09-07 |
+| 19 | [131704. 택배상자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/131704. 택배상자) | 2 | O | 2025-09-07 |
 | 20 | [132265. 롤케이크 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/132265. 롤케이크 자르기) | 1 | O | 2025-08-18 |
 | 21 | [138476. 귤 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/138476. 귤 고르기) | 1 | O | 2024-12-26 |
 | 22 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 2 | O | 2024-12-27 |
