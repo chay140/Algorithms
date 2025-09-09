@@ -416,6 +416,7 @@
 | 53 | [87390. n＾2 배열 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87390. n＾2 배열 자르기) | 2 | O | 2025-08-12 |
 | 54 | [87946. 피로도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87946. 피로도) | 1 | O | 2025-08-10 |
 | 55 | [92335. k진수에서 소수 개수 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/92335. k진수에서 소수 개수 구하기) | 1 | O | 2025-08-21 |
+| 56 | [92341. 주차 요금 계산](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/92341. 주차 요금 계산) | 1 | O | 2025-09-09 |
 
 <br>
 </div>
