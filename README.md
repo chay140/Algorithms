@@ -404,17 +404,18 @@
 | 41 | [42885. 구명보트](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42885. 구명보트) | 1 | O | 2025-03-01 |
 | 42 | [42888. 오픈채팅방](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42888. 오픈채팅방) | 1 | O | 2025-09-06 |
 | 43 | [43165. 타겟 넘버](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/43165. 타겟 넘버) | 4 | O | 2025-08-18 |
-| 44 | [49994. 방문 길이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/49994. 방문 길이) | 1 | O | 2025-08-20 |
-| 45 | [64065. 튜플](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/64065. 튜플) | 3 | O | 2025-08-17 |
-| 46 | [68645. 삼각 달팽이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68645. 삼각 달팽이) | 1 | O | 2025-04-03 |
-| 47 | [68936. 쿼드압축 후 개수 세기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68936. 쿼드압축 후 개수 세기) | 1 | O | 2025-04-03 |
-| 48 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
-| 49 | [76502. 괄호 회전하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/76502. 괄호 회전하기) | 1 | O | 2024-12-29 |
-| 50 | [84512. 모음 사전](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/84512. 모음 사전) | 1 | O | 2025-08-10 |
-| 51 | [86971. 전력망을 둘로 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/86971. 전력망을 둘로 나누기) | 1 | O | 2025-04-07 |
-| 52 | [87390. n＾2 배열 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87390. n＾2 배열 자르기) | 2 | O | 2025-08-12 |
-| 53 | [87946. 피로도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87946. 피로도) | 1 | O | 2025-08-10 |
-| 54 | [92335. k진수에서 소수 개수 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/92335. k진수에서 소수 개수 구하기) | 1 | O | 2025-08-21 |
+| 44 | [49993. 스킬트리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/49993. 스킬트리) | 1 | O | 2025-09-09 |
+| 45 | [49994. 방문 길이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/49994. 방문 길이) | 1 | O | 2025-08-20 |
+| 46 | [64065. 튜플](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/64065. 튜플) | 3 | O | 2025-08-17 |
+| 47 | [68645. 삼각 달팽이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68645. 삼각 달팽이) | 1 | O | 2025-04-03 |
+| 48 | [68936. 쿼드압축 후 개수 세기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/68936. 쿼드압축 후 개수 세기) | 1 | O | 2025-04-03 |
+| 49 | [70129. 이진 변환 반복하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/70129. 이진 변환 반복하기) | 2 | O | 2024-12-20 |
+| 50 | [76502. 괄호 회전하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/76502. 괄호 회전하기) | 1 | O | 2024-12-29 |
+| 51 | [84512. 모음 사전](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/84512. 모음 사전) | 1 | O | 2025-08-10 |
+| 52 | [86971. 전력망을 둘로 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/86971. 전력망을 둘로 나누기) | 1 | O | 2025-04-07 |
+| 53 | [87390. n＾2 배열 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87390. n＾2 배열 자르기) | 2 | O | 2025-08-12 |
+| 54 | [87946. 피로도](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/87946. 피로도) | 1 | O | 2025-08-10 |
+| 55 | [92335. k진수에서 소수 개수 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/92335. k진수에서 소수 개수 구하기) | 1 | O | 2025-08-21 |
 
 <br>
 </div>
