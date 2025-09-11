@@ -269,7 +269,7 @@
 | 1 | [118666. 성격 유형 검사하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/118666. 성격 유형 검사하기) | 1 | O | 2024-12-10 |
 | 2 | [12901. 2016년](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12901. 2016년) | 1 | O | 2024-11-13 |
 | 3 | [12903. 가운데 글자 가져오기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12903. 가운데 글자 가져오기) | 1 | O | 2024-10-22 |
-| 4 | [12906. 같은 숫자는 싫어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12906. 같은 숫자는 싫어) | 3 | O | 2024-11-15 |
+| 4 | [12906. 같은 숫자는 싫어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12906. 같은 숫자는 싫어) | 4 | O | 2025-09-11 |
 | 5 | [12910. 나누어 떨어지는 숫자 배열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12910. 나누어 떨어지는 숫자 배열) | 1 | O | 2024-10-21 |
 | 6 | [12912. 두 정수 사이의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12912. 두 정수 사이의 합) | 1 | O | 2024-10-21 |
 | 7 | [12915. 문자열 내 마음대로 정렬하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/12915. 문자열 내 마음대로 정렬하기) | 2 | O | 2024-11-05 |
