@@ -1,5 +1,5 @@
 function solution(s) {   
-    const numbers = s.split(" ").map((n) => Number(n));
+    const numbers = s.split(" ");
 
     // array spread 하는거 잊지 말기
     const min = Math.min(...numbers);
