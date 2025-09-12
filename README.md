@@ -366,7 +366,7 @@
 | 3 | [12913. 땅따먹기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12913. 땅따먹기) | 1 | O | 2025-09-06 |
 | 4 | [12914. 멀리 뛰기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12914. 멀리 뛰기) | 1 | O | 2024-12-25 |
 | 5 | [12924. 숫자의 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12924. 숫자의 표현) | 2 | O | 2024-11-18 |
-| 6 | [12939. 최댓값과 최솟값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12939. 최댓값과 최솟값) | 1 | O | 2024-11-03 |
+| 6 | [12939. 최댓값과 최솟값](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12939. 최댓값과 최솟값) | 2 | O | 2025-09-12 |
 | 7 | [12941. 최솟값 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12941. 최솟값 만들기) | 1 | O | 2024-11-05 |
 | 8 | [12945. 피보나치 수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12945. 피보나치 수) | 1 | O | 2024-12-05 |
 | 9 | [12946. 하노이의 탑](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/12946. 하노이의 탑) | 1 | O | 2025-01-01 |
