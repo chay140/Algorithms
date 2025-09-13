@@ -344,7 +344,7 @@
 | 76 | [77884. 약수의 개수와 덧셈](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/77884. 약수의 개수와 덧셈) | 1 | O | 2024-10-22 |
 | 77 | [81301. 숫자 문자열과 영단어](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/81301. 숫자 문자열과 영단어) | 1 | O | 2024-11-04 |
 | 78 | [82612. 부족한 금액 계산하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/82612. 부족한 금액 계산하기) | 1 | O | 2024-10-22 |
-| 79 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 1 | O | 2024-10-22 |
+| 79 | [86051. 없는 숫자 더하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86051. 없는 숫자 더하기) | 2 | O | 2025-09-13 |
 | 80 | [86491. 최소직사각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/86491. 최소직사각형) | 1 | O | 2024-10-28 |
 | 81 | [87389. 나머지가 1이 되는 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/87389. 나머지가 1이 되는 수 찾기) | 1 | O | 2024-10-18 |
 | 82 | [92334. 신고 결과 받기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/92334. 신고 결과 받기) | 1 | O | 2024-12-18 |
