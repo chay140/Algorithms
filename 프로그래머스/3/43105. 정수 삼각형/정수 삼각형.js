@@ -4,7 +4,6 @@ function solution(triangle) {
         let each_row = [];
         for (let j = 0; j < triangle[i].length; j++) {
             let temp = -1;
-            // initial case
             if (i === 0 && j === 0) {
                 temp = triangle[i][j]
             } else {
@@ -18,9 +17,8 @@ function solution(triangle) {
             }
             each_row.push(temp)
         }
-        // 연산한 값 계산
         dp_triangle.push(each_row)
     }
     
-    return Math.max(...dp_triangle[dp_triangle.length -1]);
+    return Math.max(...dp_triangle[dp_triangle.length - 1]);
 }
