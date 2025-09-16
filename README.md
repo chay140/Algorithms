@@ -382,7 +382,7 @@
 | 19 | [131704. 택배상자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/131704. 택배상자) | 2 | O | 2025-09-07 |
 | 20 | [132265. 롤케이크 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/132265. 롤케이크 자르기) | 1 | O | 2025-08-18 |
 | 21 | [138476. 귤 고르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/138476. 귤 고르기) | 1 | O | 2024-12-26 |
-| 22 | [154538. 숫자 변환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154538. 숫자 변환하기) | 1 | O | 2025-09-16 |
+| 22 | [154538. 숫자 변환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154538. 숫자 변환하기) | 2 | O | 2025-09-16 |
 | 23 | [154539. 뒤에 있는 큰 수 찾기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/154539. 뒤에 있는 큰 수 찾기) | 2 | O | 2024-12-27 |
 | 24 | [17677. ［1차］ 뉴스 클러스터링](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/17677. ［1차］ 뉴스 클러스터링) | 1 | O | 2025-08-19 |
 | 25 | [17680. ［1차］ 캐시](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/17680. ［1차］ 캐시) | 2 | O | 2025-08-19 |
