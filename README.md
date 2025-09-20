@@ -433,16 +433,17 @@
 
 | No.# | 문제 번호(풀이) | 푼 횟수 | 해결 여부 | 최근 푼 날짜 |
 | :--: | :--------: | :------: | :------: | :---------: |
-| 1 | [42579. 베스트앨범](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42579. 베스트앨범) | 1 | O | 2025-04-19 |
-| 2 | [42628. 이중우선순위큐](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42628. 이중우선순위큐) | 1 | O | 2025-09-19 |
-| 3 | [42884. 단속카메라](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42884. 단속카메라) | 1 | O | 2025-08-18 |
-| 4 | [42892. 길 찾기 게임](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42892. 길 찾기 게임) | 1 | O | 2025-04-20 |
-| 5 | [42895. N으로 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42895. N으로 표현) | 1 | O | 2025-04-19 |
-| 6 | [42898. 등굣길](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42898. 등굣길) | 2 | O | 2025-04-19 |
-| 7 | [43105. 정수 삼각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43105. 정수 삼각형) | 3 | O | 2025-09-15 |
-| 8 | [43162. 네트워크](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43162. 네트워크) | 3 | O | 2025-08-18 |
-| 9 | [43163. 단어 변환](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43163. 단어 변환) | 2 | O | 2025-08-18 |
-| 10 | [92343. 양과 늑대](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/92343. 양과 늑대) | 1 | O | 2025-04-20 |
+| 1 | [12927. 야근 지수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/12927. 야근 지수) | 1 | O | 2025-09-20 |
+| 2 | [42579. 베스트앨범](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42579. 베스트앨범) | 1 | O | 2025-04-19 |
+| 3 | [42628. 이중우선순위큐](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42628. 이중우선순위큐) | 1 | O | 2025-09-19 |
+| 4 | [42884. 단속카메라](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42884. 단속카메라) | 1 | O | 2025-08-18 |
+| 5 | [42892. 길 찾기 게임](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42892. 길 찾기 게임) | 1 | O | 2025-04-20 |
+| 6 | [42895. N으로 표현](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42895. N으로 표현) | 1 | O | 2025-04-19 |
+| 7 | [42898. 등굣길](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/42898. 등굣길) | 2 | O | 2025-04-19 |
+| 8 | [43105. 정수 삼각형](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43105. 정수 삼각형) | 3 | O | 2025-09-15 |
+| 9 | [43162. 네트워크](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43162. 네트워크) | 3 | O | 2025-08-18 |
+| 10 | [43163. 단어 변환](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/43163. 단어 변환) | 2 | O | 2025-08-18 |
+| 11 | [92343. 양과 늑대](https://github.com/chay140/Algorithms/tree/main/프로그래머스/3/92343. 양과 늑대) | 1 | O | 2025-04-20 |
 
 <br>
 </div>
