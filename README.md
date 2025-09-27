@@ -406,7 +406,7 @@
 | 43 | [42842. 카펫](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42842. 카펫) | 1 | O | 2024-12-23 |
 | 44 | [42885. 구명보트](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42885. 구명보트) | 1 | O | 2025-03-01 |
 | 45 | [42888. 오픈채팅방](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/42888. 오픈채팅방) | 1 | O | 2025-09-06 |
-| 46 | [43165. 타겟 넘버](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/43165. 타겟 넘버) | 4 | O | 2025-08-18 |
+| 46 | [43165. 타겟 넘버](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/43165. 타겟 넘버) | 5 | O | 2025-09-27 |
 | 47 | [49993. 스킬트리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/49993. 스킬트리) | 1 | O | 2025-09-09 |
 | 48 | [49994. 방문 길이](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/49994. 방문 길이) | 1 | O | 2025-08-20 |
 | 49 | [64065. 튜플](https://github.com/chay140/Algorithms/tree/main/프로그래머스/2/64065. 튜플) | 3 | O | 2025-08-17 |
