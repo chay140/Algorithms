@@ -130,7 +130,7 @@
 | 96 | [120922. 종이 자르기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120922. 종이 자르기) | 1 | O | 2025-08-13 |
 | 97 | [120923. 연속된 수의 합](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120923. 연속된 수의 합) | 1 | O | 2025-08-14 |
 | 98 | [120924. 다음에 올 숫자](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120924. 다음에 올 숫자) | 2 | O | 2025-08-13 |
-| 99 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 1 | O | 2024-10-21 |
+| 99 | [120956. 옹알이 （1）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120956. 옹알이 （1）) | 2 | O | 2025-09-30 |
 | 100 | [181829. 이차원 배열 대각선 순회하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181829. 이차원 배열 대각선 순회하기) | 1 | O | 2025-08-21 |
 | 101 | [181830. 정사각형으로 만들기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181830. 정사각형으로 만들기) | 1 | O | 2025-08-21 |
 | 102 | [181831. 특별한 이차원 배열 2](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181831. 특별한 이차원 배열 2) | 1 | O | 2025-08-19 |
