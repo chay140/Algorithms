@@ -1,16 +1,10 @@
 function solution(babbling) {
-    let doable_words = ["aya", "ye", "woo", "ma"];
     let answer = 0;
+    const regex = /^(aya|ye|woo|ma)+$/;
 
-    babbling.forEach(babble => {
-        doable_words.forEach(word => {
-            babble = babble.replace(word, " ");
-        });
-        
-        if (babble.trim() === "") {
-            answer++;
-        }
-    });
-    
+    babbling.forEach(word => {
+        if (regex.test(word)) answer++;  
+    })
+
     return answer;
 }
