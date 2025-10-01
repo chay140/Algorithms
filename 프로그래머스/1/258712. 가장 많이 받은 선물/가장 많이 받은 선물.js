@@ -34,6 +34,14 @@ function solution(friends, gifts) {
         }
     }
     
+    // 순서 정렬
+    const nextMG_arr = [];
+    for (const key in nextMonthGift) {
+        nextMG_arr.push([key, nextMonthGift[key]]);
+    }
+    nextMG_arr.sort((a, b) => b[1] - a[1]);
+    
     // 가장 많이 받는 수 반환
-    return Math.max(...Object.values(nextMonthGift));
+    // return Math.max(...Object.values(nextMonthGift));
+    return nextMG_arr[0][1]
 }
