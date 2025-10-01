@@ -324,7 +324,7 @@
 | 56 | [178871. 달리기 경주](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/178871. 달리기 경주) | 1 | O | 2024-12-15 |
 | 57 | [1845. 폰켓몬](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/1845. 폰켓몬) | 3 | O | 2025-07-06 |
 | 58 | [250137. ［PCCP 기출문제］ 1번 ／ 붕대 감기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/250137. ［PCCP 기출문제］ 1번 ／ 붕대 감기) | 2 | O | 2025-08-07 |
-| 59 | [258712. 가장 많이 받은 선물](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/258712. 가장 많이 받은 선물) | 1 | O | 2025-04-05 |
+| 59 | [258712. 가장 많이 받은 선물](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/258712. 가장 많이 받은 선물) | 2 | O | 2025-10-01 |
 | 60 | [340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/340213. ［PCCP 기출문제］ 1번 ／ 동영상 재생기) | 2 | O | 2025-01-01 |
 | 61 | [388351. 유연근무제](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/388351. 유연근무제) | 1 | O | 2025-08-07 |
 | 62 | [389478. 택배 상자 꺼내기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/1/389478. 택배 상자 꺼내기) | 1 | O | 2025-08-08 |
