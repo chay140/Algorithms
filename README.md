@@ -10,13 +10,14 @@
 
 | No.# | 문제 번호(풀이) | 푼 횟수 | 해결 여부 | 최근 푼 날짜 |
 | :--: | :--------: | :------: | :------: | :---------: |
-| 1 | [120862. 최댓값 만들기 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120862. 최댓값 만들기 （2）) | 1 | O | 2025-07-26 |
-| 2 | [250126. ［PCCE 기출문제］ 8번 ／ 창고 정리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/250126. ［PCCE 기출문제］ 8번 ／ 창고 정리) | 1 | O | 2025-07-26 |
-| 3 | [250128. ［PCCE 기출문제］ 6번 ／ 가채점](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/250128. ［PCCE 기출문제］ 6번 ／ 가채점) | 1 | O | 2025-07-26 |
-| 4 | [250132. ［PCCE 기출문제］ 2번 ／ 피타고라스의 정리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/250132. ［PCCE 기출문제］ 2번 ／ 피타고라스의 정리) | 1 | O | 2025-07-18 |
-| 5 | [340200. ［PCCE 기출문제］ 8번 ／ 닉네임 규칙](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340200. ［PCCE 기출문제］ 8번 ／ 닉네임 규칙) | 1 | O | 2025-07-26 |
-| 6 | [340205. ［PCCE 기출문제］ 3번 ／ 수 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340205. ［PCCE 기출문제］ 3번 ／ 수 나누기) | 1 | O | 2025-07-18 |
-| 7 | [340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기) | 1 | O | 2025-07-18 |
+| 1 | [120810. 나머지 구하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120810. 나머지 구하기) | 1 | O | 2025-10-21 |
+| 2 | [120862. 최댓값 만들기 （2）](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/120862. 최댓값 만들기 （2）) | 1 | O | 2025-07-26 |
+| 3 | [250126. ［PCCE 기출문제］ 8번 ／ 창고 정리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/250126. ［PCCE 기출문제］ 8번 ／ 창고 정리) | 1 | O | 2025-07-26 |
+| 4 | [250128. ［PCCE 기출문제］ 6번 ／ 가채점](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/250128. ［PCCE 기출문제］ 6번 ／ 가채점) | 1 | O | 2025-07-26 |
+| 5 | [250132. ［PCCE 기출문제］ 2번 ／ 피타고라스의 정리](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/250132. ［PCCE 기출문제］ 2번 ／ 피타고라스의 정리) | 1 | O | 2025-07-18 |
+| 6 | [340200. ［PCCE 기출문제］ 8번 ／ 닉네임 규칙](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340200. ［PCCE 기출문제］ 8번 ／ 닉네임 규칙) | 1 | O | 2025-07-26 |
+| 7 | [340205. ［PCCE 기출문제］ 3번 ／ 수 나누기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340205. ［PCCE 기출문제］ 3번 ／ 수 나누기) | 1 | O | 2025-07-18 |
+| 8 | [340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/340206. ［PCCE 기출문제］ 2번 ／ 각도 합치기) | 1 | O | 2025-07-18 |
 
 <br>
 </div>
