@@ -239,7 +239,7 @@
 | 203 | [181934. 조건 문자열](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181934. 조건 문자열) | 1 | O | 2025-07-17 |
 | 204 | [181935. 홀짝에 따라 다른 값 반환하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181935. 홀짝에 따라 다른 값 반환하기) | 1 | O | 2025-07-17 |
 | 205 | [181936. 공배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181936. 공배수) | 1 | O | 2025-06-17 |
-| 206 | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181937. n의 배수) | 1 | O | 2024-10-25 |
+| 206 | [181937. n의 배수](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181937. n의 배수) | 2 | O | 2025-11-20 |
 | 207 | [181938. 두 수의 연산값 비교하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181938. 두 수의 연산값 비교하기) | 1 | O | 2025-07-17 |
 | 208 | [181939. 더 크게 합치기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181939. 더 크게 합치기) | 1 | O | 2025-07-17 |
 | 209 | [181940. 문자열 곱하기](https://github.com/chay140/Algorithms/tree/main/프로그래머스/0/181940. 문자열 곱하기) | 1 | O | 2025-07-11 |
